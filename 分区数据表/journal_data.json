@@ -1,0 +1,3481 @@
+{
+    "CA-A CANCER JOURNAL FOR CLINICIANS": {
+        "abbr": "CA-CANCER J CLIN",
+        "issn": "0007-9235",
+        "if": "503.1",
+        "if5y": "297.0",
+        "category": "ONCOLOGY|Q1|1/322"
+    },
+    "NATURE REVIEWS DRUG DISCOVERY": {
+        "abbr": "NAT REV DRUG DISCOV",
+        "issn": "1474-1776",
+        "if": "122.7",
+        "if5y": "114.9",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|1/354"
+    },
+    "LANCET": {
+        "abbr": "LANCET",
+        "issn": "0140-6736",
+        "if": "98.4",
+        "if5y": "106.9",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|1/325"
+    },
+    "NEW ENGLAND JOURNAL OF MEDICINE": {
+        "abbr": "NEW ENGL J MED",
+        "issn": "0028-4793",
+        "if": "96.2",
+        "if5y": "94.3",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|2/325"
+    },
+    "BMJ-British Medical Journal": {
+        "abbr": "BMJ-BRIT MED J",
+        "issn": "0959-535X",
+        "if": "93.6",
+        "if5y": "69.9",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|3/325"
+    },
+    "NATURE REVIEWS MOLECULAR CELL BIOLOGY": {
+        "abbr": "NAT REV MOL CELL BIO",
+        "issn": "1471-0072",
+        "if": "81.3",
+        "if5y": "115.5",
+        "category": "CELL BIOLOGY|Q1|1/205"
+    },
+    "Nature Reviews Clinical Oncology": {
+        "abbr": "NAT REV CLIN ONCOL",
+        "issn": "1759-4774",
+        "if": "81.1",
+        "if5y": "81.5",
+        "category": "ONCOLOGY|Q1|2/322"
+    },
+    "Nature Reviews Materials": {
+        "abbr": "NAT REV MATER",
+        "issn": "2058-8437",
+        "if": "79.8",
+        "if5y": "85.7",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|1/140"
+    },
+    "Nature Reviews Disease Primers": {
+        "abbr": "NAT REV DIS PRIMERS",
+        "issn": "2056-676X",
+        "if": "76.9",
+        "if5y": "92.6",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|4/325"
+    },
+    "NATURE REVIEWS CANCER": {
+        "abbr": "NAT REV CANCER",
+        "issn": "1474-175X",
+        "if": "72.5",
+        "if5y": "77.2",
+        "category": "ONCOLOGY|Q1|3/322"
+    },
+    "NATURE REVIEWS MICROBIOLOGY": {
+        "abbr": "NAT REV MICROBIOL",
+        "issn": "1740-1526",
+        "if": "69.2",
+        "if5y": "81.3",
+        "category": "MICROBIOLOGY|Q1|1/161"
+    },
+    "NATURE REVIEWS IMMUNOLOGY": {
+        "abbr": "NAT REV IMMUNOL",
+        "issn": "1474-1733",
+        "if": "67.7",
+        "if5y": "78.1",
+        "category": "IMMUNOLOGY|Q1|1/181"
+    },
+    "Foundations and Trends in Machine Learning": {
+        "abbr": "FOUND TRENDS MACH LE",
+        "issn": "1935-8237",
+        "if": "65.3",
+        "if5y": "70.8",
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE|Q1|1/197"
+    },
+    "JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION": {
+        "abbr": "JAMA-J AM MED ASSOC",
+        "issn": "0098-7484",
+        "if": "63.1",
+        "if5y": "66.8",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|5/325"
+    },
+    "World Psychiatry": {
+        "abbr": "WORLD PSYCHIATRY",
+        "issn": "1723-8617",
+        "if": "60.5",
+        "if5y": "55.5",
+        "category": "PSYCHIATRY|Q1|1/276"
+    },
+    "NATURE MEDICINE": {
+        "abbr": "NAT MED",
+        "issn": "1078-8956",
+        "if": "58.7",
+        "if5y": "59.2",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|1/189"
+    },
+    "ANNALS OF ONCOLOGY": {
+        "abbr": "ANN ONCOL",
+        "issn": "0923-7534",
+        "if": "56.7",
+        "if5y": "38.2",
+        "category": "ONCOLOGY|Q1|4/322"
+    },
+    "CHEMICAL REVIEWS": {
+        "abbr": "CHEM REV",
+        "issn": "0009-2665",
+        "if": "51.4",
+        "if5y": "63.5",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|1/230"
+    },
+    "NATURE": {
+        "abbr": "NATURE",
+        "issn": "0028-0836",
+        "if": "50.5",
+        "if5y": "54.4",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|1/134"
+    },
+    "Nature Reviews Methods Primers": {
+        "abbr": "NAT REV METHOD PRIME",
+        "issn": "",
+        "if": "50.1",
+        "if5y": "50.1",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|2/134"
+    },
+    "Nature Energy": {
+        "abbr": "NAT ENERGY",
+        "issn": "2058-7546",
+        "if": "49.7",
+        "if5y": "62.3",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|2/438"
+    },
+    "Nature Reviews Earth & Environment": {
+        "abbr": "NAT REV EARTH ENV",
+        "issn": "",
+        "if": "49.7",
+        "if5y": "54.5",
+        "category": "GEOSCIENCES, MULTIDISCIPLINARY|Q1|1/253"
+    },
+    "CANCER CELL": {
+        "abbr": "CANCER CELL",
+        "issn": "1535-6108",
+        "if": "48.8",
+        "if5y": "42.1",
+        "category": "ONCOLOGY|Q1|5/322"
+    },
+    "LANCET NEUROLOGY": {
+        "abbr": "LANCET NEUROL",
+        "issn": "1474-4422",
+        "if": "46.5",
+        "if5y": "51.6",
+        "category": "CLINICAL NEUROLOGY|Q1|1/277"
+    },
+    "Nature Reviews Gastroenterology & Hepatology": {
+        "abbr": "NAT REV GASTRO HEPAT",
+        "issn": "1759-5045",
+        "if": "45.9",
+        "if5y": "65.1",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|1/143"
+    },
+    "REVIEWS OF MODERN PHYSICS": {
+        "abbr": "REV MOD PHYS",
+        "issn": "0034-6861",
+        "if": "45.9",
+        "if5y": "52.1",
+        "category": "PHYSICS, MULTIDISCIPLINARY|Q1|1/110"
+    },
+    "CELL": {
+        "abbr": "CELL",
+        "issn": "0092-8674",
+        "if": "45.5",
+        "if5y": "49.0",
+        "category": "CELL BIOLOGY|Q1|4/205"
+    },
+    "Nature Reviews Physics": {
+        "abbr": "NAT REV PHYS",
+        "issn": "",
+        "if": "44.8",
+        "if5y": "44.6",
+        "category": "PHYSICS, MULTIDISCIPLINARY|Q1|2/110"
+    },
+    "SCIENCE": {
+        "abbr": "SCIENCE",
+        "issn": "0036-8075",
+        "if": "44.7",
+        "if5y": "50.3",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|3/134"
+    },
+    "Lancet Diabetes & Endocrinology": {
+        "abbr": "LANCET DIABETES ENDO",
+        "issn": "2213-8587",
+        "if": "44.0",
+        "if5y": "38.2",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|1/186"
+    },
+    "eScience": {
+        "abbr": "ESCIENCE",
+        "issn": "",
+        "if": "42.9",
+        "if5y": "42.9",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|3/438"
+    },
+    "Nature Catalysis": {
+        "abbr": "NAT CATAL",
+        "issn": "2520-1158",
+        "if": "42.8",
+        "if5y": "47.0",
+        "category": "CHEMISTRY, PHYSICAL|Q1|1/178"
+    },
+    "JOURNAL OF CLINICAL ONCOLOGY": {
+        "abbr": "J CLIN ONCOL",
+        "issn": "0732-183X",
+        "if": "42.1",
+        "if5y": "37.4",
+        "category": "ONCOLOGY|Q1|6/322"
+    },
+    "Nature Reviews Cardiology": {
+        "abbr": "NAT REV CARDIOL",
+        "issn": "1759-5002",
+        "if": "41.7",
+        "if5y": "46.5",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|1/220"
+    },
+    "LANCET ONCOLOGY": {
+        "abbr": "LANCET ONCOL",
+        "issn": "1470-2045",
+        "if": "41.6",
+        "if5y": "42.2",
+        "category": "ONCOLOGY|Q1|7/322"
+    },
+    "Signal Transduction and Targeted Therapy": {
+        "abbr": "SIGNAL TRANSDUCT TAR",
+        "issn": "2095-9907",
+        "if": "40.8",
+        "if5y": "40.5",
+        "category": "CELL BIOLOGY|Q1|5/205"
+    },
+    "CHEMICAL SOCIETY REVIEWS": {
+        "abbr": "CHEM SOC REV",
+        "issn": "0306-0012",
+        "if": "40.4",
+        "if5y": "48.1",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|2/230"
+    },
+    "NATURE REVIEWS GENETICS": {
+        "abbr": "NAT REV GENET",
+        "issn": "1471-0056",
+        "if": "39.1",
+        "if5y": "52.3",
+        "category": "GENETICS & HEREDITY|Q1|1/191"
+    },
+    "Lancet Respiratory Medicine": {
+        "abbr": "LANCET RESP MED",
+        "issn": "2213-2600",
+        "if": "38.7",
+        "if5y": "41.3",
+        "category": "RESPIRATORY SYSTEM|Q1|1/100"
+    },
+    "Joule": {
+        "abbr": "JOULE",
+        "issn": "2542-4351",
+        "if": "38.6",
+        "if5y": "44.8",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|4/438"
+    },
+    "Nature Nanotechnology": {
+        "abbr": "NAT NANOTECHNOL",
+        "issn": "1748-3387",
+        "if": "38.1",
+        "if5y": "39.6",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|2/140"
+    },
+    "Nature Reviews Chemistry": {
+        "abbr": "NAT REV CHEM",
+        "issn": "",
+        "if": "38.1",
+        "if5y": "39.6",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|3/230"
+    },
+    "EUROPEAN HEART JOURNAL": {
+        "abbr": "EUR HEART J",
+        "issn": "0195-668X",
+        "if": "37.6",
+        "if5y": "32.6",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|2/220"
+    },
+    "MMWR Surveillance Summaries": {
+        "abbr": "MMWR SURVEILL SUMM",
+        "issn": "1545-8636",
+        "if": "37.3",
+        "if5y": "30.2",
+        "category": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH|Q1|1/403"
+    },
+    "NATURE MATERIALS": {
+        "abbr": "NAT MATER",
+        "issn": "1476-1122",
+        "if": "37.2",
+        "if5y": "44.0",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|1/79"
+    },
+    "LANCET INFECTIOUS DISEASES": {
+        "abbr": "LANCET INFECT DIS",
+        "issn": "1473-3099",
+        "if": "36.4",
+        "if5y": "32.4",
+        "category": "INFECTIOUS DISEASES|Q1|1/132"
+    },
+    "NATURE METHODS": {
+        "abbr": "NAT METHODS",
+        "issn": "1548-7091",
+        "if": "36.1",
+        "if5y": "45.6",
+        "category": "BIOCHEMICAL RESEARCH METHODS|Q1|1/85"
+    },
+    "CIRCULATION": {
+        "abbr": "CIRCULATION",
+        "issn": "0009-7322",
+        "if": "35.5",
+        "if5y": "32.7",
+        "category": "PERIPHERAL VASCULAR DISEASE|Q1|1/96"
+    },
+    "ADVANCES IN PHYSICS": {
+        "abbr": "ADV PHYS",
+        "issn": "0001-8732",
+        "if": "35.0",
+        "if5y": "41.3",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|2/79"
+    },
+    "IEEE Communications Surveys and Tutorials": {
+        "abbr": "IEEE COMMUN SURV TUT",
+        "issn": "",
+        "if": "34.4",
+        "if5y": "34.0",
+        "category": "TELECOMMUNICATIONS|Q1|1/119"
+    },
+    "Nature Electronics": {
+        "abbr": "NAT ELECTRON",
+        "issn": "2520-1131",
+        "if": "33.7",
+        "if5y": "39.2",
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC|Q1|1/352"
+    },
+    "PROGRESS IN MATERIALS SCIENCE": {
+        "abbr": "PROG MATER SCI",
+        "issn": "0079-6425",
+        "if": "33.6",
+        "if5y": "41.2",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|7/438"
+    },
+    "Innovation": {
+        "abbr": "INNOVATION-AMSTERDAM",
+        "issn": "2666-6758",
+        "if": "33.2",
+        "if5y": "31.8",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|4/134"
+    },
+    "NATURE BIOTECHNOLOGY": {
+        "abbr": "NAT BIOTECHNOL",
+        "issn": "1087-0156",
+        "if": "33.1",
+        "if5y": "56.9",
+        "category": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY|Q1|2/174"
+    },
+    "Energy & Environmental Science": {
+        "abbr": "ENERG ENVIRON SCI",
+        "issn": "1754-5692",
+        "if": "32.4",
+        "if5y": "34.5",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|2/358"
+    },
+    "Nature Photonics": {
+        "abbr": "NAT PHOTONICS",
+        "issn": "1749-4885",
+        "if": "32.3",
+        "if5y": "35.8",
+        "category": "PHYSICS, APPLIED|Q1|3/179"
+    },
+    "PROGRESS IN ENERGY AND COMBUSTION SCIENCE": {
+        "abbr": "PROG ENERG COMBUST",
+        "issn": "0360-1285",
+        "if": "32.0",
+        "if5y": "36.8",
+        "category": "THERMODYNAMICS|Q1|1/76"
+    },
+    "NATURE GENETICS": {
+        "abbr": "NAT GENET",
+        "issn": "1061-4036",
+        "if": "31.7",
+        "if5y": "36.6",
+        "category": "GENETICS & HEREDITY|Q1|2/191"
+    },
+    "Nano-Micro Letters": {
+        "abbr": "NANO-MICRO LETT",
+        "issn": "2311-6706",
+        "if": "31.6",
+        "if5y": "26.0",
+        "category": "PHYSICS, APPLIED|Q1|4/179"
+    },
+    "MATERIALS SCIENCE & ENGINEERING R-REPORTS": {
+        "abbr": "MAT SCI ENG R",
+        "issn": "0927-796X",
+        "if": "31.6",
+        "if5y": "34.3",
+        "category": "PHYSICS, APPLIED|Q1|4/179"
+    },
+    "Nature Reviews Endocrinology": {
+        "abbr": "NAT REV ENDOCRINOL",
+        "issn": "1759-5029",
+        "if": "31.0",
+        "if5y": "46.8",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|2/186"
+    },
+    "Lancet Gastroenterology & Hepatology": {
+        "abbr": "LANCET GASTROENTEROL",
+        "issn": "",
+        "if": "30.9",
+        "if5y": "29.6",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|2/143"
+    },
+    "Lancet Psychiatry": {
+        "abbr": "LANCET PSYCHIAT",
+        "issn": "2215-0374",
+        "if": "30.8",
+        "if5y": "36.8",
+        "category": "PSYCHIATRY|Q1|2/276"
+    },
+    "Physiological Reviews": {
+        "abbr": "PHYSIOL REV",
+        "issn": "0031-9333",
+        "if": "29.9",
+        "if5y": "45.0",
+        "category": "PHYSIOLOGY|Q1|1/85"
+    },
+    "Cancer Discovery": {
+        "abbr": "CANCER DISCOV",
+        "issn": "2159-8274",
+        "if": "29.7",
+        "if5y": "32.4",
+        "category": "ONCOLOGY|Q1|8/322"
+    },
+    "Nature Climate Change": {
+        "abbr": "NAT CLIM CHANGE",
+        "issn": "1758-678X",
+        "if": "29.6",
+        "if5y": "31.1",
+        "category": "METEOROLOGY & ATMOSPHERIC SCIENCES|Q1|1/110"
+    },
+    "Journal of Hematology & Oncology": {
+        "abbr": "J HEMATOL ONCOL",
+        "issn": "",
+        "if": "29.5",
+        "if5y": "26.9",
+        "category": "ONCOLOGY|Q1|9/322"
+    },
+    "Nature Reviews Rheumatology": {
+        "abbr": "NAT REV RHEUMATOL",
+        "issn": "1759-4790",
+        "if": "29.4",
+        "if5y": "30.6",
+        "category": "RHEUMATOLOGY|Q1|1/57"
+    },
+    "NATURE REVIEWS NEUROSCIENCE": {
+        "abbr": "NAT REV NEUROSCI",
+        "issn": "1471-003X",
+        "if": "28.7",
+        "if5y": "37.4",
+        "category": "NEUROSCIENCES|Q1|2/310"
+    },
+    "Advanced Powder Materials": {
+        "abbr": "ADV POWDER MATER",
+        "issn": "",
+        "if": "28.6",
+        "if5y": "28.6",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|10/438"
+    },
+    "Nature Reviews Nephrology": {
+        "abbr": "NAT REV NEPHROL",
+        "issn": "1759-5061",
+        "if": "28.6",
+        "if5y": "40.0",
+        "category": "UROLOGY & NEPHROLOGY|Q1|1/126"
+    },
+    "Annual Review of Pathology-Mechanisms of Disease": {
+        "abbr": "ANNU REV PATHOL-MECH",
+        "issn": "1553-4006",
+        "if": "28.4",
+        "if5y": "35.2",
+        "category": "PATHOLOGY|Q1|1/88"
+    },
+    "Electrochemical Energy Reviews": {
+        "abbr": "ELECTROCHEM ENERGY R",
+        "issn": "2520-8489",
+        "if": "28.4",
+        "if5y": "30.1",
+        "category": "ELECTROCHEMISTRY|Q1|2/45"
+    },
+    "Nature Reviews Neurology": {
+        "abbr": "NAT REV NEUROL",
+        "issn": "1759-4758",
+        "if": "28.2",
+        "if5y": "43.7",
+        "category": "CLINICAL NEUROLOGY|Q1|2/277"
+    },
+    "CELL RESEARCH": {
+        "abbr": "CELL RES",
+        "issn": "1001-0602",
+        "if": "28.1",
+        "if5y": "36.4",
+        "category": "CELL BIOLOGY|Q1|6/205"
+    },
+    "ASTRONOMY AND ASTROPHYSICS REVIEW": {
+        "abbr": "ASTRON ASTROPHYS REV",
+        "issn": "0935-4956",
+        "if": "27.8",
+        "if5y": "29.1",
+        "category": "ASTRONOMY & ASTROPHYSICS|Q1|1/84"
+    },
+    "Cell Metabolism": {
+        "abbr": "CELL METAB",
+        "issn": "1550-4131",
+        "if": "27.7",
+        "if5y": "31.2",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|3/186"
+    },
+    "Molecular Cancer": {
+        "abbr": "MOL CANCER",
+        "issn": "",
+        "if": "27.7",
+        "if5y": "31.3",
+        "category": "ONCOLOGY|Q1|10/322"
+    },
+    "NATURE IMMUNOLOGY": {
+        "abbr": "NAT IMMUNOL",
+        "issn": "1529-2908",
+        "if": "27.7",
+        "if5y": "28.3",
+        "category": "IMMUNOLOGY|Q1|2/181"
+    },
+    "ADVANCED MATERIALS": {
+        "abbr": "ADV MATER",
+        "issn": "0935-9648",
+        "if": "27.4",
+        "if5y": "30.2",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|3/79"
+    },
+    "eLight": {
+        "abbr": "ELIGHT",
+        "issn": "2097-1710",
+        "if": "27.2",
+        "if5y": "27.2",
+        "category": "OPTICS|Q1|2/119"
+    },
+    "INTENSIVE CARE MEDICINE": {
+        "abbr": "INTENS CARE MED",
+        "issn": "0342-4642",
+        "if": "27.1",
+        "if5y": "24.0",
+        "category": "CRITICAL CARE MEDICINE|Q1|2/54"
+    },
+    "Annual Review of Immunology": {
+        "abbr": "ANNU REV IMMUNOL",
+        "issn": "0732-0582",
+        "if": "26.9",
+        "if5y": "32.0",
+        "category": "IMMUNOLOGY|Q1|3/181"
+    },
+    "JOURNAL OF HEPATOLOGY": {
+        "abbr": "J HEPATOL",
+        "issn": "0168-8278",
+        "if": "26.8",
+        "if5y": "28.0",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|3/143"
+    },
+    "Nature Biomedical Engineering": {
+        "abbr": "NAT BIOMED ENG",
+        "issn": "2157-846X",
+        "if": "26.8",
+        "if5y": "29.2",
+        "category": "ENGINEERING, BIOMEDICAL|Q1|1/122"
+    },
+    "Living Reviews in Relativity": {
+        "abbr": "LIVING REV RELATIV",
+        "issn": "2367-3613",
+        "if": "26.3",
+        "if5y": "37.9",
+        "category": "PHYSICS, PARTICLES & FIELDS|Q1|1/30"
+    },
+    "Annual Review of Astronomy and Astrophysics": {
+        "abbr": "ANNU REV ASTRON ASTR",
+        "issn": "0066-4146",
+        "if": "26.3",
+        "if5y": "36.7",
+        "category": "ASTRONOMY & ASTROPHYSICS|Q1|2/84"
+    },
+    "Science Robotics": {
+        "abbr": "SCI ROBOT",
+        "issn": "2470-9476",
+        "if": "26.1",
+        "if5y": "33.7",
+        "category": "ROBOTICS|Q1|1/46"
+    },
+    "PROGRESS IN POLYMER SCIENCE": {
+        "abbr": "PROG POLYM SCI",
+        "issn": "0079-6700",
+        "if": "26.0",
+        "if5y": "29.5",
+        "category": "POLYMER SCIENCE|Q1|1/94"
+    },
+    "Gastroenterology": {
+        "abbr": "GASTROENTEROLOGY",
+        "issn": "0016-5085",
+        "if": "25.7",
+        "if5y": "25.2",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|4/143"
+    },
+    "Nature Sustainability": {
+        "abbr": "NAT SUSTAIN",
+        "issn": "2398-9629",
+        "if": "25.7",
+        "if5y": "29.9",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|1/91"
+    },
+    "Immunity": {
+        "abbr": "IMMUNITY",
+        "issn": "1074-7613",
+        "if": "25.5",
+        "if5y": "33.2",
+        "category": "IMMUNOLOGY|Q1|4/181"
+    },
+    "Lancet Public Health": {
+        "abbr": "LANCET PUBLIC HEALTH",
+        "issn": "2468-2667",
+        "if": "25.4",
+        "if5y": "29.9",
+        "category": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH|Q1|2/403"
+    },
+    "MMWR-MORBIDITY AND MORTALITY WEEKLY REPORT": {
+        "abbr": "MMWR-MORBID MORTAL W",
+        "issn": "0149-2195",
+        "if": "25.4",
+        "if5y": "18.5",
+        "category": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH|Q1|2/403"
+    },
+    "Annual Review of Fluid Mechanics": {
+        "abbr": "ANNU REV FLUID MECH",
+        "issn": "0066-4189",
+        "if": "25.4",
+        "if5y": "26.8",
+        "category": "PHYSICS, FLUIDS & PLASMAS|Q1|1/40"
+    },
+    "EUROPEAN UROLOGY": {
+        "abbr": "EUR UROL",
+        "issn": "0302-2838",
+        "if": "25.3",
+        "if5y": "19.4",
+        "category": "UROLOGY & NEPHROLOGY|Q1|2/126"
+    },
+    "REVIEWS OF GEOPHYSICS": {
+        "abbr": "REV GEOPHYS",
+        "issn": "8755-1209",
+        "if": "25.2",
+        "if5y": "32.5",
+        "category": "GEOCHEMISTRY & GEOPHYSICS|Q1|1/101"
+    },
+    "Advances in Optics and Photonics": {
+        "abbr": "ADV OPT PHOTONICS",
+        "issn": "1943-8206",
+        "if": "25.2",
+        "if5y": "25.8",
+        "category": "OPTICS|Q1|3/119"
+    },
+    "JAMA Pediatrics": {
+        "abbr": "JAMA PEDIATR",
+        "issn": "2168-6203",
+        "if": "24.7",
+        "if5y": "20.4",
+        "category": "PEDIATRICS|Q1|1/186"
+    },
+    "FUNGAL DIVERSITY": {
+        "abbr": "FUNGAL DIVERS",
+        "issn": "1560-2745",
+        "if": "24.5",
+        "if5y": "24.1",
+        "category": "MYCOLOGY|Q1|1/33"
+    },
+    "Interdisciplinary Materials": {
+        "abbr": "INTERD MATER",
+        "issn": "2767-4401",
+        "if": "24.5",
+        "if5y": "24.7",
+        "category": "PHYSICS, APPLIED|Q1|7/179"
+    },
+    "Advanced Energy Materials": {
+        "abbr": "ADV ENERGY MATER",
+        "issn": "1614-6832",
+        "if": "24.4",
+        "if5y": "27.2",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|4/79"
+    },
+    "Lancet Planetary Health": {
+        "abbr": "LANCET PLANET HEALTH",
+        "issn": "",
+        "if": "24.1",
+        "if5y": "25.6",
+        "category": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH|Q1|4/403"
+    },
+    "PHYSICS REPORTS-REVIEW SECTION OF PHYSICS LETTERS": {
+        "abbr": "PHYS REP",
+        "issn": "0370-1573",
+        "if": "23.9",
+        "if5y": "25.7",
+        "category": "PHYSICS, MULTIDISCIPLINARY|Q1|3/110"
+    },
+    "Lancet Digital Health": {
+        "abbr": "LANCET DIGIT HEALTH",
+        "issn": "",
+        "if": "23.8",
+        "if5y": "27.7",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|6/325"
+    },
+    "ACM COMPUTING SURVEYS": {
+        "abbr": "ACM COMPUT SURV",
+        "issn": "0360-0300",
+        "if": "23.8",
+        "if5y": "21.1",
+        "category": "COMPUTER SCIENCE, THEORY & METHODS|Q1|1/143"
+    },
+    "iMeta": {
+        "abbr": "IMETA",
+        "issn": "2770-5986",
+        "if": "23.7",
+        "if5y": "23.7",
+        "category": "MICROBIOLOGY|Q1|2/161"
+    },
+    "Annual Review of Psychology": {
+        "abbr": "ANNU REV PSYCHOL",
+        "issn": "0066-4308",
+        "if": "23.6",
+        "if5y": "27.9",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|1/218"
+    },
+    "Nature Food": {
+        "abbr": "NAT FOOD",
+        "issn": "",
+        "if": "23.6",
+        "if5y": "25.0",
+        "category": "FOOD SCIENCE & TECHNOLOGY|Q1|1/173"
+    },
+    "Nature Cancer": {
+        "abbr": "NAT CANCER",
+        "issn": "",
+        "if": "23.5",
+        "if5y": "24.6",
+        "category": "ONCOLOGY|Q1|11/322"
+    },
+    "PROCEEDINGS OF THE IEEE": {
+        "abbr": "P IEEE",
+        "issn": "0018-9219",
+        "if": "23.2",
+        "if5y": "18.4",
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC|Q1|2/352"
+    },
+    "Advanced Composites and Hybrid Materials": {
+        "abbr": "ADV COMPOS HYBRID MA",
+        "issn": "2522-0128",
+        "if": "23.2",
+        "if5y": "17.7",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|5/140"
+    },
+    "GUT": {
+        "abbr": "GUT",
+        "issn": "0017-5749",
+        "if": "23.0",
+        "if5y": "24.5",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|5/143"
+    },
+    "Living Reviews in Solar Physics": {
+        "abbr": "LIVING REV SOL PHYS",
+        "issn": "2367-3648",
+        "if": "23.0",
+        "if5y": "24.6",
+        "category": "ASTRONOMY & ASTROPHYSICS|Q1|3/84"
+    },
+    "InfoMat": {
+        "abbr": "INFOMAT",
+        "issn": "",
+        "if": "22.7",
+        "if5y": "21.7",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|14/438"
+    },
+    "JAMA Internal Medicine": {
+        "abbr": "JAMA INTERN MED",
+        "issn": "2168-6106",
+        "if": "22.5",
+        "if5y": "22.5",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|7/325"
+    },
+    "JAMA Oncology": {
+        "abbr": "JAMA ONCOL",
+        "issn": "2374-2437",
+        "if": "22.5",
+        "if5y": "25.9",
+        "category": "ONCOLOGY|Q1|12/322"
+    },
+    "JAMA Psychiatry": {
+        "abbr": "JAMA PSYCHIAT",
+        "issn": "2168-622X",
+        "if": "22.5",
+        "if5y": "22.3",
+        "category": "PSYCHIATRY|Q1|3/276"
+    },
+    "EnergyChem": {
+        "abbr": "ENERGYCHEM",
+        "issn": "2589-7780",
+        "if": "22.2",
+        "if5y": "25.4",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|15/438"
+    },
+    "ENDOCRINE REVIEWS": {
+        "abbr": "ENDOCR REV",
+        "issn": "0163-769X",
+        "if": "22.0",
+        "if5y": "26.5",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|4/186"
+    },
+    "Cellular & Molecular Immunology": {
+        "abbr": "CELL MOL IMMUNOL",
+        "issn": "1672-7681",
+        "if": "21.8",
+        "if5y": "19.9",
+        "category": "IMMUNOLOGY|Q1|5/181"
+    },
+    "JOURNAL OF THE AMERICAN COLLEGE OF CARDIOLOGY": {
+        "abbr": "J AM COLL CARDIOL",
+        "issn": "0735-1097",
+        "if": "21.7",
+        "if5y": "24.2",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|4/220"
+    },
+    "Nature Human Behaviour": {
+        "abbr": "NAT HUM BEHAV",
+        "issn": "2397-3374",
+        "if": "21.4",
+        "if5y": "20.4",
+        "category": "PSYCHOLOGY, EXPERIMENTAL|Q1|1/99"
+    },
+    "Annual Review of Public Health": {
+        "abbr": "ANNU REV PUBL HEALTH",
+        "issn": "0163-7525",
+        "if": "21.4",
+        "if5y": "25.7",
+        "category": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH|Q1|5/403"
+    },
+    "Annual Review of Plant Biology": {
+        "abbr": "ANNU REV PLANT BIOL",
+        "issn": "1543-5008",
+        "if": "21.3",
+        "if5y": "28.2",
+        "category": "PLANT SCIENCES|Q1|1/265"
+    },
+    "NATURE NEUROSCIENCE": {
+        "abbr": "NAT NEUROSCI",
+        "issn": "1097-6256",
+        "if": "21.2",
+        "if5y": "25.6",
+        "category": "NEUROSCIENCES|Q1|4/310"
+    },
+    "Materials Today": {
+        "abbr": "MATER TODAY",
+        "issn": "1369-7021",
+        "if": "21.1",
+        "if5y": "25.4",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|16/438"
+    },
+    "Journal of Thoracic Oncology": {
+        "abbr": "J THORAC ONCOL",
+        "issn": "1556-0864",
+        "if": "21.0",
+        "if5y": "16.5",
+        "category": "RESPIRATORY SYSTEM|Q1|2/100"
+    },
+    "BLOOD": {
+        "abbr": "BLOOD",
+        "issn": "0006-4971",
+        "if": "21.0",
+        "if5y": "19.2",
+        "category": "HEMATOLOGY|Q1|2/97"
+    },
+    "Lancet Microbe": {
+        "abbr": "LANCET MICROBE",
+        "issn": "",
+        "if": "20.9",
+        "if5y": "23.4",
+        "category": "MICROBIOLOGY|Q1|3/161"
+    },
+    "IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE": {
+        "abbr": "IEEE T PATTERN ANAL",
+        "issn": "0162-8828",
+        "if": "20.8",
+        "if5y": "22.2",
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC|Q1|3/352"
+    },
+    "Cell Host & Microbe": {
+        "abbr": "CELL HOST MICROBE",
+        "issn": "1931-3128",
+        "if": "20.6",
+        "if5y": "22.1",
+        "category": "VIROLOGY|Q1|1/41"
+    },
+    "Light-Science & Applications": {
+        "abbr": "LIGHT-SCI APPL",
+        "issn": "2095-5545",
+        "if": "20.6",
+        "if5y": "20.3",
+        "category": "OPTICS|Q1|4/119"
+    },
+    "Advanced Photonics": {
+        "abbr": "ADV PHOTONICS",
+        "issn": "",
+        "if": "20.6",
+        "if5y": "16.5",
+        "category": "OPTICS|Q1|4/119"
+    },
+    "Nature Microbiology": {
+        "abbr": "NAT MICROBIOL",
+        "issn": "2058-5276",
+        "if": "20.5",
+        "if5y": "21.0",
+        "category": "MICROBIOLOGY|Q1|5/161"
+    },
+    "JAMA Neurology": {
+        "abbr": "JAMA NEUROL",
+        "issn": "2168-6149",
+        "if": "20.4",
+        "if5y": "20.4",
+        "category": "CLINICAL NEUROLOGY|Q1|3/277"
+    },
+    "ANNALS OF THE RHEUMATIC DISEASES": {
+        "abbr": "ANN RHEUM DIS",
+        "issn": "0003-4967",
+        "if": "20.3",
+        "if5y": "18.4",
+        "category": "RHEUMATOLOGY|Q1|2/57"
+    },
+    "COORDINATION CHEMISTRY REVIEWS": {
+        "abbr": "COORDIN CHEM REV",
+        "issn": "0010-8545",
+        "if": "20.3",
+        "if5y": "19.9",
+        "category": "CHEMISTRY, INORGANIC & NUCLEAR|Q1|1/44"
+    },
+    "Journal of Bioresources and Bioproducts": {
+        "abbr": "J BIORESOUR BIOPROD",
+        "issn": "2097-2415",
+        "if": "20.2",
+        "if5y": "",
+        "category": "MATERIALS SCIENCE, PAPER & WOOD|Q1|1/23"
+    },
+    "Applied Catalysis B-Environment and Energy": {
+        "abbr": "APPL CATAL B-ENVIRON",
+        "issn": "0926-3373",
+        "if": "20.2",
+        "if5y": "18.9",
+        "category": "ENGINEERING, ENVIRONMENTAL|Q1|1/81"
+    },
+    "INTERNATIONAL JOURNAL OF INFORMATION MANAGEMENT": {
+        "abbr": "INT J INFORM MANAGE",
+        "issn": "0268-4012",
+        "if": "20.1",
+        "if5y": "19.2",
+        "category": "INFORMATION SCIENCE & LIBRARY SCIENCE|Q1|1/160"
+    },
+    "Cancer Communications": {
+        "abbr": "CANCER COMMUN",
+        "issn": "",
+        "if": "20.1",
+        "if5y": "16.7",
+        "category": "ONCOLOGY|Q1|14/322"
+    },
+    "Lancet Child & Adolescent Health": {
+        "abbr": "LANCET CHILD ADOLESC",
+        "issn": "2352-4642",
+        "if": "19.9",
+        "if5y": "19.8",
+        "category": "PEDIATRICS|Q1|2/186"
+    },
+    "Lancet Global Health": {
+        "abbr": "LANCET GLOB HEALTH",
+        "issn": "2214-109X",
+        "if": "19.9",
+        "if5y": "26.4",
+        "category": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH|Q1|6/403"
+    },
+    "Cell Stem Cell": {
+        "abbr": "CELL STEM CELL",
+        "issn": "1934-5909",
+        "if": "19.8",
+        "if5y": "22.6",
+        "category": "CELL BIOLOGY|Q1|8/205"
+    },
+    "ANNALS OF INTERNAL MEDICINE": {
+        "abbr": "ANN INTERN MED",
+        "issn": "0003-4819",
+        "if": "19.6",
+        "if5y": "28.8",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|8/325"
+    },
+    "Carbon Energy": {
+        "abbr": "CARBON ENERGY",
+        "issn": "",
+        "if": "19.5",
+        "if5y": "19.9",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|6/140"
+    },
+    "AMERICAN JOURNAL OF RESPIRATORY AND CRITICAL CARE MEDICINE": {
+        "abbr": "AM J RESP CRIT CARE",
+        "issn": "1073-449X",
+        "if": "19.3",
+        "if5y": "20.0",
+        "category": "RESPIRATORY SYSTEM|Q1|3/100"
+    },
+    "Kidney International Supplements": {
+        "abbr": "KIDNEY INT SUPPL",
+        "issn": "2157-1724",
+        "if": "19.3",
+        "if5y": "14.2",
+        "category": "UROLOGY & NEPHROLOGY|Q1|3/126"
+    },
+    "ACADEMY OF MANAGEMENT REVIEW": {
+        "abbr": "ACAD MANAGE REV",
+        "issn": "0363-7425",
+        "if": "19.3",
+        "if5y": "17.1",
+        "category": "MANAGEMENT|Q1|1/401"
+    },
+    "PHARMACOLOGICAL REVIEWS": {
+        "abbr": "PHARMACOL REV",
+        "issn": "0031-6997",
+        "if": "19.3",
+        "if5y": "22.1",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|2/354"
+    },
+    "ACS Energy Letters": {
+        "abbr": "ACS ENERGY LETT",
+        "issn": "2380-8195",
+        "if": "19.3",
+        "if5y": "20.8",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|7/140"
+    },
+    "Nature Chemistry": {
+        "abbr": "NAT CHEM",
+        "issn": "1755-4330",
+        "if": "19.2",
+        "if5y": "22.0",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|7/230"
+    },
+    "Chem": {
+        "abbr": "CHEM-US",
+        "issn": "2451-9294",
+        "if": "19.1",
+        "if5y": "23.8",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|8/230"
+    },
+    "CLINICAL MICROBIOLOGY REVIEWS": {
+        "abbr": "CLIN MICROBIOL REV",
+        "issn": "0893-8512",
+        "if": "19.0",
+        "if5y": "33.8",
+        "category": "MICROBIOLOGY|Q1|6/161"
+    },
+    "REPORTS ON PROGRESS IN PHYSICS": {
+        "abbr": "REP PROG PHYS",
+        "issn": "0034-4885",
+        "if": "19.0",
+        "if5y": "18.2",
+        "category": "PHYSICS, MULTIDISCIPLINARY|Q1|4/110"
+    },
+    "Nature Metabolism": {
+        "abbr": "NAT METAB",
+        "issn": "",
+        "if": "18.9",
+        "if5y": "21.0",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|5/186"
+    },
+    "Energy Storage Materials": {
+        "abbr": "ENERGY STORAGE MATER",
+        "issn": "2405-8297",
+        "if": "18.9",
+        "if5y": "18.4",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|8/140"
+    },
+    "Nature Machine Intelligence": {
+        "abbr": "NAT MACH INTELL",
+        "issn": "",
+        "if": "18.8",
+        "if5y": "26.4",
+        "category": "COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS|Q1|1/169"
+    },
+    "Science Bulletin": {
+        "abbr": "SCI BULL",
+        "issn": "2095-9273",
+        "if": "18.8",
+        "if5y": "15.8",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|6/134"
+    },
+    "SusMat": {
+        "abbr": "SUSMAT",
+        "issn": "2766-8479",
+        "if": "18.7",
+        "if5y": "18.7",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|20/438"
+    },
+    "PROGRESS IN RETINAL AND EYE RESEARCH": {
+        "abbr": "PROG RETIN EYE RES",
+        "issn": "1350-9462",
+        "if": "18.6",
+        "if5y": "20.3",
+        "category": "OPHTHALMOLOGY|Q1|1/95"
+    },
+    "Journal of Advanced Ceramics": {
+        "abbr": "J ADV CERAM",
+        "issn": "2226-4108",
+        "if": "18.6",
+        "if5y": "15.0",
+        "category": "MATERIALS SCIENCE, CERAMICS|Q1|1/31"
+    },
+    "ADVANCED FUNCTIONAL MATERIALS": {
+        "abbr": "ADV FUNCT MATER",
+        "issn": "1616-301X",
+        "if": "18.5",
+        "if5y": "19.6",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|5/79"
+    },
+    "Psychological Science in the Public Interest": {
+        "abbr": "PSYCHOL SCI PUBL INT",
+        "issn": "1529-1006",
+        "if": "18.2",
+        "if5y": "40.0",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|2/218"
+    },
+    "Bioactive Materials": {
+        "abbr": "BIOACT MATER",
+        "issn": "",
+        "if": "18.0",
+        "if5y": "18.2",
+        "category": "MATERIALS SCIENCE, BIOMATERIALS|Q1|1/53"
+    },
+    "Annual Review of Clinical Psychology": {
+        "abbr": "ANNU REV CLIN PSYCHO",
+        "issn": "1548-5943",
+        "if": "17.8",
+        "if5y": "21.9",
+        "category": "PSYCHOLOGY, CLINICAL|Q1|1/180"
+    },
+    "Nature Physics": {
+        "abbr": "NAT PHYS",
+        "issn": "1745-2473",
+        "if": "17.6",
+        "if5y": "19.3",
+        "category": "PHYSICS, MULTIDISCIPLINARY|Q1|5/110"
+    },
+    "Science Immunology": {
+        "abbr": "SCI IMMUNOL",
+        "issn": "2470-9468",
+        "if": "17.6",
+        "if5y": "19.1",
+        "category": "IMMUNOLOGY|Q1|6/181"
+    },
+    "PERIODONTOLOGY 2000": {
+        "abbr": "PERIODONTOL 2000",
+        "issn": "0906-6713",
+        "if": "17.5",
+        "if5y": "16.8",
+        "category": "DENTISTRY, ORAL SURGERY & MEDICINE|Q1|1/157"
+    },
+    "PSYCHOLOGICAL BULLETIN": {
+        "abbr": "PSYCHOL BULL",
+        "issn": "0033-2909",
+        "if": "17.3",
+        "if5y": "24.1",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|3/218"
+    },
+    "Computational Visual Media": {
+        "abbr": "COMPUT VIS MEDIA",
+        "issn": "2096-0433",
+        "if": "17.3",
+        "if5y": "",
+        "category": "COMPUTER SCIENCE, SOFTWARE ENGINEERING|Q1|1/131"
+    },
+    "NATURE CELL BIOLOGY": {
+        "abbr": "NAT CELL BIOL",
+        "issn": "1465-7392",
+        "if": "17.3",
+        "if5y": "24.2",
+        "category": "CELL BIOLOGY|Q1|9/205"
+    },
+    "Matter": {
+        "abbr": "MATTER-US",
+        "issn": "2590-2393",
+        "if": "17.3",
+        "if5y": "18.9",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|22/438"
+    },
+    "TRENDS IN PLANT SCIENCE": {
+        "abbr": "TRENDS PLANT SCI",
+        "issn": "1360-1385",
+        "if": "17.3",
+        "if5y": "20.1",
+        "category": "PLANT SCIENCES|Q1|2/265"
+    },
+    "Advanced Fiber Materials": {
+        "abbr": "ADV FIBER MATER",
+        "issn": "2524-7921",
+        "if": "17.2",
+        "if5y": "15.7",
+        "category": "MATERIALS SCIENCE, TEXTILES|Q1|1/29"
+    },
+    "IEEE Reviews in Biomedical Engineering": {
+        "abbr": "IEEE REV BIOMED ENG",
+        "issn": "1937-3333",
+        "if": "17.2",
+        "if5y": "",
+        "category": "ENGINEERING, BIOMEDICAL|Q1|3/122"
+    },
+    "Molecular Plant": {
+        "abbr": "MOL PLANT",
+        "issn": "1674-2052",
+        "if": "17.1",
+        "if5y": "21.4",
+        "category": "PLANT SCIENCES|Q1|3/265"
+    },
+    "AMERICAN JOURNAL OF BIOETHICS": {
+        "abbr": "AM J BIOETHICS",
+        "issn": "1526-5161",
+        "if": "17.0",
+        "if5y": "12.3",
+        "category": "SOCIAL SCIENCES, BIOMEDICAL|Q1|1/46"
+    },
+    "Nature Aging": {
+        "abbr": "NATURE AGING",
+        "issn": "",
+        "if": "17.0",
+        "if5y": "17.0",
+        "category": "NEUROSCIENCES|Q1|5/310"
+    },
+    "EUROPEAN JOURNAL OF HEART FAILURE": {
+        "abbr": "EUR J HEART FAIL",
+        "issn": "1388-9842",
+        "if": "16.9",
+        "if5y": "16.2",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|5/220"
+    },
+    "Nature Reviews Psychology": {
+        "abbr": "NAT REV PSYCHOL",
+        "issn": "",
+        "if": "16.8",
+        "if5y": "16.8",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|4/218"
+    },
+    "Wiley Interdisciplinary Reviews-Computational Molecular Science": {
+        "abbr": "WIRES COMPUT MOL SCI",
+        "issn": "1759-0876",
+        "if": "16.8",
+        "if5y": "20.0",
+        "category": "MATHEMATICAL & COMPUTATIONAL BIOLOGY|Q1|1/65"
+    },
+    "Nano Energy": {
+        "abbr": "NANO ENERGY",
+        "issn": "2211-2855",
+        "if": "16.8",
+        "if5y": "16.3",
+        "category": "PHYSICS, APPLIED|Q1|10/179"
+    },
+    "INTERNATIONAL MATERIALS REVIEWS": {
+        "abbr": "INT MATER REV",
+        "issn": "0950-6608",
+        "if": "16.8",
+        "if5y": "18.7",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|24/438"
+    },
+    "Military Medical Research": {
+        "abbr": "MILITARY MED RES",
+        "issn": "2095-7467",
+        "if": "16.7",
+        "if5y": "14.8",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|9/325"
+    },
+    "TRENDS IN COGNITIVE SCIENCES": {
+        "abbr": "TRENDS COGN SCI",
+        "issn": "1364-6613",
+        "if": "16.7",
+        "if5y": "21.8",
+        "category": "PSYCHOLOGY, EXPERIMENTAL|Q1|2/99"
+    },
+    "TRENDS IN ECOLOGY & EVOLUTION": {
+        "abbr": "TRENDS ECOL EVOL",
+        "issn": "0169-5347",
+        "if": "16.7",
+        "if5y": "18.2",
+        "category": "GENETICS & HEREDITY|Q1|3/191"
+    },
+    "BEHAVIORAL AND BRAIN SCIENCES": {
+        "abbr": "BEHAV BRAIN SCI",
+        "issn": "0140-525X",
+        "if": "16.6",
+        "if5y": "16.6",
+        "category": "PSYCHOLOGY, BIOLOGICAL|Q1|1/18"
+    },
+    "EUROPEAN RESPIRATORY JOURNAL": {
+        "abbr": "EUR RESPIR J",
+        "issn": "0903-1936",
+        "if": "16.6",
+        "if5y": "17.6",
+        "category": "RESPIRATORY SYSTEM|Q1|4/100"
+    },
+    "NUCLEIC ACIDS RESEARCH": {
+        "abbr": "NUCLEIC ACIDS RES",
+        "issn": "0305-1048",
+        "if": "16.6",
+        "if5y": "16.1",
+        "category": "BIOCHEMISTRY & MOLECULAR BIOLOGY|Q1|6/313"
+    },
+    "CIRCULATION RESEARCH": {
+        "abbr": "CIRC RES",
+        "issn": "0009-7330",
+        "if": "16.5",
+        "if5y": "20.3",
+        "category": "PERIPHERAL VASCULAR DISEASE|Q1|2/96"
+    },
+    "NEURO-ONCOLOGY": {
+        "abbr": "NEURO-ONCOLOGY",
+        "issn": "1522-8517",
+        "if": "16.4",
+        "if5y": "14.9",
+        "category": "ONCOLOGY|Q1|15/322"
+    },
+    "ACCOUNTS OF CHEMICAL RESEARCH": {
+        "abbr": "ACCOUNTS CHEM RES",
+        "issn": "0001-4842",
+        "if": "16.4",
+        "if5y": "20.2",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|12/230"
+    },
+    "ACTA NUMERICA": {
+        "abbr": "ACTA NUMER",
+        "issn": "0962-4929",
+        "if": "16.3",
+        "if5y": "18.8",
+        "category": "MATHEMATICS|Q1|1/489"
+    },
+    "PSYCHOTHERAPY AND PSYCHOSOMATICS": {
+        "abbr": "PSYCHOTHER PSYCHOSOM",
+        "issn": "0033-3190",
+        "if": "16.3",
+        "if5y": "17.5",
+        "category": "PSYCHOLOGY|Q1|4/92"
+    },
+    "National Science Review": {
+        "abbr": "NATL SCI REV",
+        "issn": "2095-5138",
+        "if": "16.3",
+        "if5y": "18.6",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|7/134"
+    },
+    "RENEWABLE & SUSTAINABLE ENERGY REVIEWS": {
+        "abbr": "RENEW SUST ENERG REV",
+        "issn": "1364-0321",
+        "if": "16.3",
+        "if5y": "16.8",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|3/91"
+    },
+    "IEEE Geoscience and Remote Sensing Magazine": {
+        "abbr": "IEEE GEOSC REM SEN M",
+        "issn": "2473-2397",
+        "if": "16.2",
+        "if5y": "15.6",
+        "category": "REMOTE SENSING|Q1|1/62"
+    },
+    "ANGEWANDTE CHEMIE-INTERNATIONAL EDITION": {
+        "abbr": "ANGEW CHEM INT EDIT",
+        "issn": "1433-7851",
+        "if": "16.1",
+        "if5y": "16.2",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|13/230"
+    },
+    "International Journal of Extreme Manufacturing": {
+        "abbr": "INT J EXTREME MANUF",
+        "issn": "2631-8644",
+        "if": "16.1",
+        "if5y": "14.4",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|26/438"
+    },
+    "ADVANCES IN COLLOID AND INTERFACE SCIENCE": {
+        "abbr": "ADV COLLOID INTERFAC",
+        "issn": "0001-8686",
+        "if": "15.9",
+        "if5y": "16.4",
+        "category": "CHEMISTRY, PHYSICAL|Q1|13/178"
+    },
+    "Nature Plants": {
+        "abbr": "NAT PLANTS",
+        "issn": "2055-026X",
+        "if": "15.8",
+        "if5y": "17.1",
+        "category": "PLANT SCIENCES|Q1|4/265"
+    },
+    "Science Translational Medicine": {
+        "abbr": "SCI TRANSL MED",
+        "issn": "1946-6234",
+        "if": "15.8",
+        "if5y": "16.9",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|2/189"
+    },
+    "Journal of Magnesium and Alloys": {
+        "abbr": "J MAGNES ALLOY",
+        "issn": "2213-9567",
+        "if": "15.8",
+        "if5y": "14.8",
+        "category": "METALLURGY & METALLURGICAL ENGINEERING|Q1|1/90"
+    },
+    "DRUG RESISTANCE UPDATES": {
+        "abbr": "DRUG RESIST UPDATE",
+        "issn": "1368-7646",
+        "if": "15.8",
+        "if5y": "18.1",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|3/354"
+    },
+    "ACS Nano": {
+        "abbr": "ACS NANO",
+        "issn": "1936-0851",
+        "if": "15.8",
+        "if5y": "16.2",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|11/140"
+    },
+    "JAMA Surgery": {
+        "abbr": "JAMA SURG",
+        "issn": "2168-6254",
+        "if": "15.7",
+        "if5y": "16.3",
+        "category": "SURGERY|Q1|1/290"
+    },
+    "Nature Geoscience": {
+        "abbr": "NAT GEOSCI",
+        "issn": "1752-0894",
+        "if": "15.7",
+        "if5y": "18.8",
+        "category": "GEOSCIENCES, MULTIDISCIPLINARY|Q1|2/253"
+    },
+    "PhotoniX": {
+        "abbr": "PHOTONIX",
+        "issn": "",
+        "if": "15.7",
+        "if5y": "16.8",
+        "category": "OPTICS|Q1|6/119"
+    },
+    "Annual Review of Physiology": {
+        "abbr": "ANNU REV PHYSIOL",
+        "issn": "0066-4278",
+        "if": "15.7",
+        "if5y": "22.9",
+        "category": "PHYSIOLOGY|Q1|2/85"
+    },
+    "Chinese Journal of Catalysis": {
+        "abbr": "CHINESE J CATAL",
+        "issn": "0253-9837",
+        "if": "15.7",
+        "if5y": "11.5",
+        "category": "ENGINEERING, CHEMICAL|Q1|5/170"
+    },
+    "Advances in Methods and Practices in Psychological Science": {
+        "abbr": "ADV METH PRACT PSYCH",
+        "issn": "2515-2459",
+        "if": "15.6",
+        "if5y": "19.1",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|5/218"
+    },
+    "Journal of Innovation & Knowledge": {
+        "abbr": "J INNOV KNOWL",
+        "issn": "2530-7614",
+        "if": "15.6",
+        "if5y": "14.6",
+        "category": "MANAGEMENT|Q1|2/401"
+    },
+    "Journal of Extracellular Vesicles": {
+        "abbr": "J EXTRACELL VESICLES",
+        "issn": "",
+        "if": "15.5",
+        "if5y": "19.6",
+        "category": "CELL BIOLOGY|Q1|12/205"
+    },
+    "Annual Review of Environment and Resources": {
+        "abbr": "ANNU REV ENV RESOUR",
+        "issn": "1543-5938",
+        "if": "15.5",
+        "if5y": "18.9",
+        "category": "ENVIRONMENTAL STUDIES|Q1|3/182"
+    },
+    "Lancet Haematology": {
+        "abbr": "LANCET HAEMATOL",
+        "issn": "2352-3026",
+        "if": "15.4",
+        "if5y": "16.3",
+        "category": "HEMATOLOGY|Q1|4/97"
+    },
+    "Opto-Electronic Advances": {
+        "abbr": "OPTO-ELECTRON ADV",
+        "issn": "2096-4579",
+        "if": "15.3",
+        "if5y": "11.4",
+        "category": "OPTICS|Q1|7/119"
+    },
+    "IEEE-CAA Journal of Automatica Sinica": {
+        "abbr": "IEEE-CAA J AUTOMATIC",
+        "issn": "2329-9266",
+        "if": "15.3",
+        "if5y": "10.3",
+        "category": "AUTOMATION & CONTROL SYSTEMS|Q1|1/84"
+    },
+    "SmartMat": {
+        "abbr": "SMARTMAT",
+        "issn": "2766-8525",
+        "if": "15.3",
+        "if5y": "15.8",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|28/438"
+    },
+    "ADVANCED DRUG DELIVERY REVIEWS": {
+        "abbr": "ADV DRUG DELIVER REV",
+        "issn": "0169-409X",
+        "if": "15.2",
+        "if5y": "17.6",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|4/354"
+    },
+    "AMERICAN JOURNAL OF PSYCHIATRY": {
+        "abbr": "AM J PSYCHIAT",
+        "issn": "0002-953X",
+        "if": "15.1",
+        "if5y": "17.7",
+        "category": "PSYCHIATRY|Q1|5/276"
+    },
+    "TRENDS IN FOOD SCIENCE & TECHNOLOGY": {
+        "abbr": "TRENDS FOOD SCI TECH",
+        "issn": "0924-2244",
+        "if": "15.1",
+        "if5y": "16.4",
+        "category": "FOOD SCIENCE & TECHNOLOGY|Q1|2/173"
+    },
+    "Annual Review of Medicine": {
+        "abbr": "ANNU REV MED",
+        "issn": "0066-4219",
+        "if": "15.1",
+        "if5y": "14.4",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|3/189"
+    },
+    "One Earth": {
+        "abbr": "ONE EARTH",
+        "issn": "2590-3330",
+        "if": "15.1",
+        "if5y": "18.1",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|4/91"
+    },
+    "Lancet Rheumatology": {
+        "abbr": "LANCET RHEUMATOL",
+        "issn": "2665-9913",
+        "if": "15.0",
+        "if5y": "14.7",
+        "category": "RHEUMATOLOGY|Q1|3/57"
+    },
+    "Annual Review of Entomology": {
+        "abbr": "ANNU REV ENTOMOL",
+        "issn": "0066-4170",
+        "if": "15.0",
+        "if5y": "21.6",
+        "category": "ENTOMOLOGY|Q1|1/109"
+    },
+    "eTransportation": {
+        "abbr": "ETRANSPORTATION",
+        "issn": "2590-1168",
+        "if": "15.0",
+        "if5y": "17.4",
+        "category": "TRANSPORTATION SCIENCE & TECHNOLOGY|Q1|1/72"
+    },
+    "Environmental Chemistry Letters": {
+        "abbr": "ENVIRON CHEM LETT",
+        "issn": "1610-3653",
+        "if": "15.0",
+        "if5y": "15.1",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|8/358"
+    },
+    "Molecular Neurodegeneration": {
+        "abbr": "MOL NEURODEGENER",
+        "issn": "",
+        "if": "14.9",
+        "if5y": "16.7",
+        "category": "NEUROSCIENCES|Q1|8/310"
+    },
+    "JAMA Cardiology": {
+        "abbr": "JAMA CARDIOL",
+        "issn": "2380-6583",
+        "if": "14.8",
+        "if5y": "16.0",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|7/220"
+    },
+    "KIDNEY INTERNATIONAL": {
+        "abbr": "KIDNEY INT",
+        "issn": "0085-2538",
+        "if": "14.8",
+        "if5y": "13.3",
+        "category": "UROLOGY & NEPHROLOGY|Q1|4/126"
+    },
+    "DIABETES CARE": {
+        "abbr": "DIABETES CARE",
+        "issn": "0149-5992",
+        "if": "14.8",
+        "if5y": "14.1",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|6/186"
+    },
+    "HUMAN REPRODUCTION UPDATE": {
+        "abbr": "HUM REPROD UPDATE",
+        "issn": "1355-4786",
+        "if": "14.8",
+        "if5y": "17.2",
+        "category": "REPRODUCTIVE BIOLOGY|Q1|1/39"
+    },
+    "Journal of the National Comprehensive Cancer Network": {
+        "abbr": "J NATL COMPR CANC NE",
+        "issn": "1540-1405",
+        "if": "14.8",
+        "if5y": "12.3",
+        "category": "ONCOLOGY|Q1|16/322"
+    },
+    "Energy Material Advances": {
+        "abbr": "ENERGY MATER ADV",
+        "issn": "2097-1133",
+        "if": "14.8",
+        "if5y": "14.9",
+        "category": "PHYSICS, APPLIED|Q1|11/179"
+    },
+    "Neuron": {
+        "abbr": "NEURON",
+        "issn": "0896-6273",
+        "if": "14.7",
+        "if5y": "16.9",
+        "category": "NEUROSCIENCES|Q1|9/310"
+    },
+    "Acta Pharmaceutica Sinica B": {
+        "abbr": "ACTA PHARM SIN B",
+        "issn": "2211-3835",
+        "if": "14.7",
+        "if5y": "14.1",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|5/354"
+    },
+    "Information Fusion": {
+        "abbr": "INFORM FUSION",
+        "issn": "1566-2535",
+        "if": "14.7",
+        "if5y": "16.1",
+        "category": "COMPUTER SCIENCE, THEORY & METHODS|Q1|2/143"
+    },
+    "Nature Communications": {
+        "abbr": "NAT COMMUN",
+        "issn": "",
+        "if": "14.7",
+        "if5y": "16.1",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|8/134"
+    },
+    "TRENDS IN NEUROSCIENCES": {
+        "abbr": "TRENDS NEUROSCI",
+        "issn": "0166-2236",
+        "if": "14.6",
+        "if5y": "15.0",
+        "category": "NEUROSCIENCES|Q1|10/310"
+    },
+    "Autophagy": {
+        "abbr": "AUTOPHAGY",
+        "issn": "1554-8627",
+        "if": "14.6",
+        "if5y": "16.8",
+        "category": "CELL BIOLOGY|Q1|13/205"
+    },
+    "Molecular Cell": {
+        "abbr": "MOL CELL",
+        "issn": "1097-2765",
+        "if": "14.5",
+        "if5y": "16.6",
+        "category": "CELL BIOLOGY|Q1|14/205"
+    },
+    "PROGRESS IN PARTICLE AND NUCLEAR PHYSICS": {
+        "abbr": "PROG PART NUCL PHYS",
+        "issn": "0146-6410",
+        "if": "14.5",
+        "if5y": "13.2",
+        "category": "PHYSICS, PARTICLES & FIELDS|Q1|2/30"
+    },
+    "Journal of the American Chemical Society": {
+        "abbr": "J AM CHEM SOC",
+        "issn": "0002-7863",
+        "if": "14.4",
+        "if5y": "14.8",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|17/230"
+    },
+    "Biofuel Research Journal-BRJ": {
+        "abbr": "BIOFUEL RES J",
+        "issn": "2292-8782",
+        "if": "14.4",
+        "if5y": "10.0",
+        "category": "ENERGY & FUELS|Q1|11/170"
+    },
+    "Annual Review of Organizational Psychology and Organizational Behavior": {
+        "abbr": "ANNU REV ORGAN PSYCH",
+        "issn": "2327-0608",
+        "if": "14.3",
+        "if5y": "24.4",
+        "category": "PSYCHOLOGY, APPLIED|Q1|1/113"
+    },
+    "Academy of Management Annals": {
+        "abbr": "ACAD MANAG ANN",
+        "issn": "1941-6520",
+        "if": "14.3",
+        "if5y": "25.1",
+        "category": "MANAGEMENT|Q1|3/401"
+    },
+    "JOURNAL OF INFECTION": {
+        "abbr": "J INFECTION",
+        "issn": "0163-4453",
+        "if": "14.3",
+        "if5y": "12.2",
+        "category": "INFECTIOUS DISEASES|Q1|3/132"
+    },
+    "Bone Research": {
+        "abbr": "BONE RES",
+        "issn": "2095-4700",
+        "if": "14.3",
+        "if5y": "14.8",
+        "category": "CELL & TISSUE ENGINEERING|Q1|2/31"
+    },
+    "EDUCATIONAL PSYCHOLOGIST": {
+        "abbr": "EDUC PSYCHOL-US",
+        "issn": "0046-1520",
+        "if": "14.3",
+        "if5y": "15.1",
+        "category": "PSYCHOLOGY, EDUCATIONAL|Q1|1/74"
+    },
+    "Annual Review of Marine Science": {
+        "abbr": "ANNU REV MAR SCI",
+        "issn": "1941-1405",
+        "if": "14.3",
+        "if5y": "15.5",
+        "category": "OCEANOGRAPHY|Q1|1/65"
+    },
+    "Trends in Cancer": {
+        "abbr": "TRENDS CANCER",
+        "issn": "2405-8025",
+        "if": "14.3",
+        "if5y": "17.1",
+        "category": "ONCOLOGY|Q1|17/322"
+    },
+    "Advanced Science": {
+        "abbr": "ADV SCI",
+        "issn": "",
+        "if": "14.3",
+        "if5y": "16.3",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|12/140"
+    },
+    "TRENDS IN BIOTECHNOLOGY": {
+        "abbr": "TRENDS BIOTECHNOL",
+        "issn": "0167-7799",
+        "if": "14.3",
+        "if5y": "16.8",
+        "category": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY|Q1|3/174"
+    },
+    "Annual Review of Condensed Matter Physics": {
+        "abbr": "ANNU REV CONDEN MA P",
+        "issn": "1947-5454",
+        "if": "14.3",
+        "if5y": "18.5",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|6/79"
+    },
+    "STUDIES IN MYCOLOGY": {
+        "abbr": "STUD MYCOL",
+        "issn": "0166-0616",
+        "if": "14.1",
+        "if5y": "17.7",
+        "category": "MYCOLOGY|Q1|2/33"
+    },
+    "INTERNATIONAL JOURNAL OF MACHINE TOOLS & MANUFACTURE": {
+        "abbr": "INT J MACH TOOL MANU",
+        "issn": "0890-6955",
+        "if": "14.0",
+        "if5y": "11.7",
+        "category": "ENGINEERING, MECHANICAL|Q1|2/180"
+    },
+    "Accounts of Materials Research": {
+        "abbr": "ACCOUNTS MATER RES",
+        "issn": "",
+        "if": "14.0",
+        "if5y": "14.1",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|30/438"
+    },
+    "IEEE Transactions on Intelligent Vehicles": {
+        "abbr": "IEEE T INTELL VEHICL",
+        "issn": "2379-8858",
+        "if": "14.0",
+        "if5y": "11.2",
+        "category": "TRANSPORTATION SCIENCE & TECHNOLOGY|Q1|2/72"
+    },
+    "Clinical and Molecular Hepatology": {
+        "abbr": "CLIN MOL HEPATOL",
+        "issn": "2287-2728",
+        "if": "14.0",
+        "if5y": "9.6",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|6/143"
+    },
+    "Environmental Science and Ecotechnology": {
+        "abbr": "ENVIRON SCI ECOTECH",
+        "issn": "2666-4984",
+        "if": "14.0",
+        "if5y": "13.2",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|5/91"
+    },
+    "Journal of Energy Chemistry": {
+        "abbr": "J ENERGY CHEM",
+        "issn": "2095-4956",
+        "if": "14.0",
+        "if5y": "12.3",
+        "category": "ENGINEERING, CHEMICAL|Q1|6/170"
+    },
+    "PROGRESS IN LIPID RESEARCH": {
+        "abbr": "PROG LIPID RES",
+        "issn": "0163-7827",
+        "if": "14.0",
+        "if5y": "15.7",
+        "category": "NUTRITION & DIETETICS|Q1|1/114"
+    },
+    "TRENDS IN MICROBIOLOGY": {
+        "abbr": "TRENDS MICROBIOL",
+        "issn": "0966-842X",
+        "if": "14.0",
+        "if5y": "17.0",
+        "category": "MICROBIOLOGY|Q1|7/161"
+    },
+    "Trends in Chemistry": {
+        "abbr": "TRENDS CHEM",
+        "issn": "",
+        "if": "14.0",
+        "if5y": "17.7",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|19/230"
+    },
+    "Nature Ecology & Evolution": {
+        "abbr": "NAT ECOL EVOL",
+        "issn": "2397-334X",
+        "if": "13.9",
+        "if5y": "16.5",
+        "category": "EVOLUTIONARY BIOLOGY|Q1|2/54"
+    },
+    "TRENDS IN PHARMACOLOGICAL SCIENCES": {
+        "abbr": "TRENDS PHARMACOL SCI",
+        "issn": "0165-6147",
+        "if": "13.9",
+        "if5y": "14.3",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|6/354"
+    },
+    "Small Structures": {
+        "abbr": "SMALL STRUCT",
+        "issn": "",
+        "if": "13.9",
+        "if5y": "13.7",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|13/140"
+    },
+    "Aggregate": {
+        "abbr": "AGGREGATE",
+        "issn": "",
+        "if": "13.9",
+        "if5y": "14.9",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|31/438"
+    },
+    "IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS": {
+        "abbr": "IEEE J SEL AREA COMM",
+        "issn": "0733-8716",
+        "if": "13.8",
+        "if5y": "13.1",
+        "category": "TELECOMMUNICATIONS|Q1|2/119"
+    },
+    "Microbiome": {
+        "abbr": "MICROBIOME",
+        "issn": "2049-2618",
+        "if": "13.8",
+        "if5y": "17.9",
+        "category": "MICROBIOLOGY|Q1|8/161"
+    },
+    "CLINICAL PSYCHOLOGY REVIEW": {
+        "abbr": "CLIN PSYCHOL REV",
+        "issn": "0272-7358",
+        "if": "13.7",
+        "if5y": "15.3",
+        "category": "PSYCHOLOGY, CLINICAL|Q1|2/180"
+    },
+    "CELL DEATH AND DIFFERENTIATION": {
+        "abbr": "CELL DEATH DIFFER",
+        "issn": "1350-9047",
+        "if": "13.7",
+        "if5y": "13.7",
+        "category": "CELL BIOLOGY|Q1|15/205"
+    },
+    "Physics of Life Reviews": {
+        "abbr": "PHYS LIFE REV",
+        "issn": "1571-0645",
+        "if": "13.7",
+        "if5y": "11.3",
+        "category": "BIOPHYSICS|Q1|1/77"
+    },
+    "Lancet Regional Health-Europe": {
+        "abbr": "LANCET REG HEALTH-EU",
+        "issn": "2666-7762",
+        "if": "13.6",
+        "if5y": "13.6",
+        "category": "PUBLIC, ENVIRONMENTAL & OCCUPATIONAL HEALTH|Q1|7/403"
+    },
+    "Energy Economics": {
+        "abbr": "ENERG ECON",
+        "issn": "0140-9883",
+        "if": "13.6",
+        "if5y": "12.4",
+        "category": "ECONOMICS|Q1|1/597"
+    },
+    "TRENDS IN GENETICS": {
+        "abbr": "TRENDS GENET",
+        "issn": "0168-9525",
+        "if": "13.6",
+        "if5y": "11.9",
+        "category": "GENETICS & HEREDITY|Q1|4/191"
+    },
+    "Protein & Cell": {
+        "abbr": "PROTEIN CELL",
+        "issn": "1674-800X",
+        "if": "13.6",
+        "if5y": "17.7",
+        "category": "CELL BIOLOGY|Q1|16/205"
+    },
+    "Lancet Healthy Longevity": {
+        "abbr": "LANCET HEALTH LONGEV",
+        "issn": "2666-7568",
+        "if": "13.4",
+        "if5y": "13.8",
+        "category": "GERIATRICS & GERONTOLOGY|Q1|2/74"
+    },
+    "Nano Convergence": {
+        "abbr": "NANO CONVERG",
+        "issn": "2196-5404",
+        "if": "13.4",
+        "if5y": "10.7",
+        "category": "PHYSICS, APPLIED|Q1|12/179"
+    },
+    "JOURNAL OF CLINICAL INVESTIGATION": {
+        "abbr": "J CLIN INVEST",
+        "issn": "0021-9738",
+        "if": "13.3",
+        "if5y": "14.6",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|4/189"
+    },
+    "Chemical Engineering Journal": {
+        "abbr": "CHEM ENG J",
+        "issn": "1385-8947",
+        "if": "13.3",
+        "if5y": "13.2",
+        "category": "ENGINEERING, ENVIRONMENTAL|Q1|3/81"
+    },
+    "Computer Science Review": {
+        "abbr": "COMPUT SCI REV",
+        "issn": "1574-0137",
+        "if": "13.3",
+        "if5y": "13.3",
+        "category": "COMPUTER SCIENCE, THEORY & METHODS|Q1|3/143"
+    },
+    "Nano Today": {
+        "abbr": "NANO TODAY",
+        "issn": "1748-0132",
+        "if": "13.2",
+        "if5y": "14.6",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|15/140"
+    },
+    "OPHTHALMOLOGY": {
+        "abbr": "OPHTHALMOLOGY",
+        "issn": "0161-6420",
+        "if": "13.1",
+        "if5y": "12.4",
+        "category": "OPHTHALMOLOGY|Q1|2/95"
+    },
+    "Nature Protocols": {
+        "abbr": "NAT PROTOC",
+        "issn": "1754-2189",
+        "if": "13.1",
+        "if5y": "17.4",
+        "category": "BIOCHEMICAL RESEARCH METHODS|Q1|2/85"
+    },
+    "Biochar": {
+        "abbr": "BIOCHAR",
+        "issn": "2524-7972",
+        "if": "13.1",
+        "if5y": "14.4",
+        "category": "SOIL SCIENCE|Q1|1/49"
+    },
+    "TRENDS IN IMMUNOLOGY": {
+        "abbr": "TRENDS IMMUNOL",
+        "issn": "1471-4906",
+        "if": "13.1",
+        "if5y": "16.0",
+        "category": "IMMUNOLOGY|Q1|7/181"
+    },
+    "Alzheimers & Dementia": {
+        "abbr": "ALZHEIMERS DEMENT",
+        "issn": "1552-5260",
+        "if": "13.0",
+        "if5y": "16.0",
+        "category": "CLINICAL NEUROLOGY|Q1|5/277"
+    },
+    "DRUGS": {
+        "abbr": "DRUGS",
+        "issn": "0012-6667",
+        "if": "13.0",
+        "if5y": "11.4",
+        "category": "TOXICOLOGY|Q1|1/106"
+    },
+    "Journal of Ocean Engineering and Science": {
+        "abbr": "J OCEAN ENG SCI",
+        "issn": "2468-0133",
+        "if": "13.0",
+        "if5y": "8.5",
+        "category": "ENGINEERING, OCEAN|Q1|1/18"
+    },
+    "Cell Discovery": {
+        "abbr": "CELL DISCOV",
+        "issn": "",
+        "if": "13.0",
+        "if5y": "14.8",
+        "category": "CELL BIOLOGY|Q1|17/205"
+    },
+    "Small": {
+        "abbr": "SMALL",
+        "issn": "1613-6810",
+        "if": "13.0",
+        "if5y": "13.5",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|7/79"
+    },
+    "Energy & Environmental Materials": {
+        "abbr": "ENERGY ENVIRON MATER",
+        "issn": "",
+        "if": "13.0",
+        "if5y": "14.1",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|35/438"
+    },
+    "Advances in Applied Energy": {
+        "abbr": "ADV APPL ENERGY",
+        "issn": "2666-7924",
+        "if": "13.0",
+        "if5y": "13.1",
+        "category": "ENERGY & FUELS|Q1|13/170"
+    },
+    "TRENDS IN CELL BIOLOGY": {
+        "abbr": "TRENDS CELL BIOL",
+        "issn": "0962-8924",
+        "if": "13.0",
+        "if5y": "19.5",
+        "category": "CELL BIOLOGY|Q1|17/205"
+    },
+    "HEPATOLOGY": {
+        "abbr": "HEPATOLOGY",
+        "issn": "0270-9139",
+        "if": "12.9",
+        "if5y": "15.5",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|7/143"
+    },
+    "Nature Astronomy": {
+        "abbr": "NAT ASTRON",
+        "issn": "2397-3366",
+        "if": "12.9",
+        "if5y": "12.8",
+        "category": "ASTRONOMY & ASTROPHYSICS|Q1|4/84"
+    },
+    "Nature Chemical Biology": {
+        "abbr": "NAT CHEM BIOL",
+        "issn": "1552-4450",
+        "if": "12.9",
+        "if5y": "14.7",
+        "category": "BIOCHEMISTRY & MOLECULAR BIOLOGY|Q1|11/313"
+    },
+    "TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE": {
+        "abbr": "TECHNOL FORECAST SOC",
+        "issn": "0040-1625",
+        "if": "12.9",
+        "if5y": "13.0",
+        "category": "REGIONAL & URBAN PLANNING|Q1|1/54"
+    },
+    "Blood Cancer Journal": {
+        "abbr": "BLOOD CANCER J",
+        "issn": "2044-5385",
+        "if": "12.9",
+        "if5y": "11.0",
+        "category": "ONCOLOGY|Q1|18/322"
+    },
+    "Med": {
+        "abbr": "MED-CAMBRIDGE",
+        "issn": "2666-6340",
+        "if": "12.8",
+        "if5y": "12.6",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|5/189"
+    },
+    "JOURNAL OF THE AMERICAN ACADEMY OF DERMATOLOGY": {
+        "abbr": "J AM ACAD DERMATOL",
+        "issn": "0190-9622",
+        "if": "12.8",
+        "if5y": "11.5",
+        "category": "DERMATOLOGY|Q1|1/94"
+    },
+    "JACC-Cardiovascular Imaging": {
+        "abbr": "JACC-CARDIOVASC IMAG",
+        "issn": "1936-878X",
+        "if": "12.8",
+        "if5y": "13.4",
+        "category": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING|Q1|1/204"
+    },
+    "BIOMATERIALS": {
+        "abbr": "BIOMATERIALS",
+        "issn": "0142-9612",
+        "if": "12.8",
+        "if5y": "13.1",
+        "category": "MATERIALS SCIENCE, BIOMATERIALS|Q1|2/53"
+    },
+    "Lancet HIV": {
+        "abbr": "LANCET HIV",
+        "issn": "2352-3018",
+        "if": "12.8",
+        "if5y": "11.8",
+        "category": "INFECTIOUS DISEASES|Q1|4/132"
+    },
+    "LEUKEMIA": {
+        "abbr": "LEUKEMIA",
+        "issn": "0887-6924",
+        "if": "12.8",
+        "if5y": "10.5",
+        "category": "ONCOLOGY|Q1|19/322"
+    },
+    "TRENDS IN MOLECULAR MEDICINE": {
+        "abbr": "TRENDS MOL MED",
+        "issn": "1471-4914",
+        "if": "12.8",
+        "if5y": "13.7",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|5/189"
+    },
+    "Annual Review of Biomedical Engineering": {
+        "abbr": "ANNU REV BIOMED ENG",
+        "issn": "1523-9829",
+        "if": "12.8",
+        "if5y": "13.2",
+        "category": "ENGINEERING, BIOMEDICAL|Q1|4/122"
+    },
+    "JOURNAL OF PHOTOCHEMISTRY AND PHOTOBIOLOGY C-PHOTOCHEMISTRY REVIEWS": {
+        "abbr": "J PHOTOCH PHOTOBIO C",
+        "issn": "1389-5567",
+        "if": "12.8",
+        "if5y": "14.9",
+        "category": "CHEMISTRY, PHYSICAL|Q1|20/178"
+    },
+    "COMPOSITES PART B-ENGINEERING": {
+        "abbr": "COMPOS PART B-ENG",
+        "issn": "1359-8368",
+        "if": "12.7",
+        "if5y": "11.1",
+        "category": "MATERIALS SCIENCE, COMPOSITES|Q1|2/35"
+    },
+    "ACS Central Science": {
+        "abbr": "ACS CENTRAL SCI",
+        "issn": "2374-7943",
+        "if": "12.7",
+        "if5y": "15.8",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|24/230"
+    },
+    "JOURNAL OF EXPERIMENTAL MEDICINE": {
+        "abbr": "J EXP MED",
+        "issn": "0022-1007",
+        "if": "12.6",
+        "if5y": "14.1",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|7/189"
+    },
+    "ALLERGY": {
+        "abbr": "ALLERGY",
+        "issn": "0105-4538",
+        "if": "12.6",
+        "if5y": "11.8",
+        "category": "IMMUNOLOGY|Q1|9/181"
+    },
+    "Nano Materials Science": {
+        "abbr": "NANO MATER SCI",
+        "issn": "2096-6482",
+        "if": "12.6",
+        "if5y": "12.4",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|17/140"
+    },
+    "Annual Review of Nutrition": {
+        "abbr": "ANNU REV NUTR",
+        "issn": "0199-9885",
+        "if": "12.6",
+        "if5y": "12.9",
+        "category": "NUTRITION & DIETETICS|Q1|2/114"
+    },
+    "International Journal of Surgery": {
+        "abbr": "INT J SURG",
+        "issn": "1743-9191",
+        "if": "12.5",
+        "if5y": "8.9",
+        "category": "SURGERY|Q1|2/290"
+    },
+    "Analytic Methods in Accident Research": {
+        "abbr": "ANAL METHODS ACCID R",
+        "issn": "2213-6657",
+        "if": "12.5",
+        "if5y": "12.3",
+        "category": "TRANSPORTATION|Q1|1/57"
+    },
+    "NATURE STRUCTURAL & MOLECULAR BIOLOGY": {
+        "abbr": "NAT STRUCT MOL BIOL",
+        "issn": "1545-9993",
+        "if": "12.5",
+        "if5y": "13.1",
+        "category": "CELL BIOLOGY|Q1|20/205"
+    },
+    "Communications in Transportation Research": {
+        "abbr": "COMMUN TRANSP RES",
+        "issn": "2772-4247",
+        "if": "12.5",
+        "if5y": "12.5",
+        "category": "TRANSPORTATION SCIENCE & TECHNOLOGY|Q1|3/72"
+    },
+    "Business Strategy and the Environment": {
+        "abbr": "BUS STRATEG ENVIRON",
+        "issn": "0964-4733",
+        "if": "12.5",
+        "if5y": "14.0",
+        "category": "MANAGEMENT|Q1|5/401"
+    },
+    "CANCER RESEARCH": {
+        "abbr": "CANCER RES",
+        "issn": "0008-5472",
+        "if": "12.5",
+        "if5y": "11.6",
+        "category": "ONCOLOGY|Q1|20/322"
+    },
+    "AGEING RESEARCH REVIEWS": {
+        "abbr": "AGEING RES REV",
+        "issn": "1568-1637",
+        "if": "12.5",
+        "if5y": "13.0",
+        "category": "GERIATRICS & GERONTOLOGY|Q1|3/74"
+    },
+    "npj Digital Medicine": {
+        "abbr": "NPJ DIGIT MED",
+        "issn": "2398-6352",
+        "if": "12.4",
+        "if5y": "15.2",
+        "category": "MEDICAL INFORMATICS|Q1|2/44"
+    },
+    "Theranostics": {
+        "abbr": "THERANOSTICS",
+        "issn": "1838-7640",
+        "if": "12.4",
+        "if5y": "12.0",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|8/189"
+    },
+    "Resources Environment and Sustainability": {
+        "abbr": "RESOUR ENVIRON SUST",
+        "issn": "2666-9161",
+        "if": "12.4",
+        "if5y": "11.9",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|6/91"
+    },
+    "AMERICAN PSYCHOLOGIST": {
+        "abbr": "AM PSYCHOL",
+        "issn": "0003-066X",
+        "if": "12.3",
+        "if5y": "15.5",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|6/218"
+    },
+    "Applied Computing and Informatics": {
+        "abbr": "APPL COMPUT INFORM",
+        "issn": "2634-1964",
+        "if": "12.3",
+        "if5y": "",
+        "category": "COMPUTER SCIENCE, INFORMATION SYSTEMS|Q1|3/249"
+    },
+    "npj Flexible Electronics": {
+        "abbr": "NPJ FLEX ELECTRON",
+        "issn": "",
+        "if": "12.3",
+        "if5y": "13.0",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|38/438"
+    },
+    "Gut Microbes": {
+        "abbr": "GUT MICROBES",
+        "issn": "1949-0976",
+        "if": "12.2",
+        "if5y": "12.3",
+        "category": "MICROBIOLOGY|Q1|9/161"
+    },
+    "JOURNAL OF MANUFACTURING SYSTEMS": {
+        "abbr": "J MANUF SYST",
+        "issn": "0278-6125",
+        "if": "12.2",
+        "if5y": "11.3",
+        "category": "OPERATIONS RESEARCH & MANAGEMENT SCIENCE|Q1|1/106"
+    },
+    "JOURNAL OF HAZARDOUS MATERIALS": {
+        "abbr": "J HAZARD MATER",
+        "issn": "0304-3894",
+        "if": "12.2",
+        "if5y": "11.9",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|12/358"
+    },
+    "Materials Horizons": {
+        "abbr": "MATER HORIZ",
+        "issn": "2051-6347",
+        "if": "12.2",
+        "if5y": "12.5",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|39/438"
+    },
+    "Applied Mechanics Reviews": {
+        "abbr": "APPL MECH REV",
+        "issn": "0003-6900",
+        "if": "12.2",
+        "if5y": "13.1",
+        "category": "MECHANICS|Q1|2/170"
+    },
+    "CURRENT OPINION IN SOLID STATE & MATERIALS SCIENCE": {
+        "abbr": "CURR OPIN SOLID ST M",
+        "issn": "1359-0286",
+        "if": "12.2",
+        "if5y": "13.3",
+        "category": "PHYSICS, CONDENSED MATTER|Q1|8/79"
+    },
+    "RADIOLOGY": {
+        "abbr": "RADIOLOGY",
+        "issn": "0033-8419",
+        "if": "12.1",
+        "if5y": "13.4",
+        "category": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING|Q1|2/204"
+    },
+    "SEMINARS IN CANCER BIOLOGY": {
+        "abbr": "SEMIN CANCER BIOL",
+        "issn": "1044-579X",
+        "if": "12.1",
+        "if5y": "13.2",
+        "category": "ONCOLOGY|Q1|21/322"
+    },
+    "Nature Reviews Urology": {
+        "abbr": "NAT REV UROL",
+        "issn": "1759-4812",
+        "if": "12.1",
+        "if5y": "15.2",
+        "category": "UROLOGY & NEPHROLOGY|Q1|5/126"
+    },
+    "MOLECULAR THERAPY": {
+        "abbr": "MOL THER",
+        "issn": "1525-0016",
+        "if": "12.1",
+        "if5y": "11.8",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|9/189"
+    },
+    "Annual Review of Neuroscience": {
+        "abbr": "ANNU REV NEUROSCI",
+        "issn": "0147-006X",
+        "if": "12.1",
+        "if5y": "14.3",
+        "category": "NEUROSCIENCES|Q1|11/310"
+    },
+    "Annual Review of Biochemistry": {
+        "abbr": "ANNU REV BIOCHEM",
+        "issn": "0066-4154",
+        "if": "12.1",
+        "if5y": "22.3",
+        "category": "BIOCHEMISTRY & MOLECULAR BIOLOGY|Q1|14/313"
+    },
+    "BIOTECHNOLOGY ADVANCES": {
+        "abbr": "BIOTECHNOL ADV",
+        "issn": "0734-9750",
+        "if": "12.1",
+        "if5y": "14.6",
+        "category": "BIOTECHNOLOGY & APPLIED MICROBIOLOGY|Q1|4/174"
+    },
+    "Nature Computational Science": {
+        "abbr": "NAT COMPUT SCI",
+        "issn": "",
+        "if": "12.0",
+        "if5y": "12.0",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|9/134"
+    },
+    "JACC: CardioOncology": {
+        "abbr": "JACC-CARDIOONCOL",
+        "issn": "2666-0873",
+        "if": "12.0",
+        "if5y": "11.7",
+        "category": "ONCOLOGY|Q1|22/322"
+    },
+    "PHARMACOLOGY & THERAPEUTICS": {
+        "abbr": "PHARMACOL THERAPEUT",
+        "issn": "0163-7258",
+        "if": "12.0",
+        "if5y": "12.5",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|8/354"
+    },
+    "Materials Futures": {
+        "abbr": "MATER FUTURES",
+        "issn": "",
+        "if": "12.0",
+        "if5y": "12.0",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|41/438"
+    },
+    "COMPREHENSIVE REVIEWS IN FOOD SCIENCE AND FOOD SAFETY": {
+        "abbr": "COMPR REV FOOD SCI F",
+        "issn": "1541-4337",
+        "if": "12.0",
+        "if5y": "15.9",
+        "category": "FOOD SCIENCE & TECHNOLOGY|Q1|3/173"
+    },
+    "Journal of Hospitality Marketing & Management": {
+        "abbr": "J HOSP MARKET MANAG",
+        "issn": "1936-8623",
+        "if": "11.9",
+        "if5y": "11.3",
+        "category": "MANAGEMENT|Q1|6/401"
+    },
+    "Applied Physics Reviews": {
+        "abbr": "APPL PHYS REV",
+        "issn": "1931-9401",
+        "if": "11.9",
+        "if5y": "16.5",
+        "category": "PHYSICS, APPLIED|Q1|15/179"
+    },
+    "GigaScience": {
+        "abbr": "GIGASCIENCE",
+        "issn": "2047-217X",
+        "if": "11.8",
+        "if5y": "9.4",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|10/134"
+    },
+    "TRAC-TRENDS IN ANALYTICAL CHEMISTRY": {
+        "abbr": "TRAC-TREND ANAL CHEM",
+        "issn": "0165-9936",
+        "if": "11.8",
+        "if5y": "12.7",
+        "category": "CHEMISTRY, ANALYTICAL|Q1|1/106"
+    },
+    "Energy Materials": {
+        "abbr": "ENERGY MATER-US",
+        "issn": "",
+        "if": "11.8",
+        "if5y": "12.0",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|42/438"
+    },
+    "International Journal of Mining Science and Technology": {
+        "abbr": "INT J MIN SCI TECHNO",
+        "issn": "2095-2686",
+        "if": "11.7",
+        "if5y": "8.4",
+        "category": "MINING & MINERAL PROCESSING|Q1|1/31"
+    },
+    "Qualitative Psychology": {
+        "abbr": "QUAL PSYCHOL",
+        "issn": "2326-3601",
+        "if": "11.7",
+        "if5y": "",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|7/218"
+    },
+    "JACC-Cardiovascular Interventions": {
+        "abbr": "JACC-CARDIOVASC INTE",
+        "issn": "1936-8798",
+        "if": "11.7",
+        "if5y": "10.6",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|10/220"
+    },
+    "IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION": {
+        "abbr": "IEEE T EVOLUT COMPUT",
+        "issn": "1089-778X",
+        "if": "11.7",
+        "if5y": "15.5",
+        "category": "COMPUTER SCIENCE, THEORY & METHODS|Q1|5/143"
+    },
+    "Science Advances": {
+        "abbr": "SCI ADV",
+        "issn": "2375-2548",
+        "if": "11.7",
+        "if5y": "13.7",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|11/134"
+    },
+    "IEEE Transactions on Industrial Informatics": {
+        "abbr": "IEEE T IND INFORM",
+        "issn": "1551-3203",
+        "if": "11.7",
+        "if5y": "11.4",
+        "category": "ENGINEERING, INDUSTRIAL|Q1|2/69"
+    },
+    "Cell Reports Medicine": {
+        "abbr": "CELL REP MED",
+        "issn": "2666-3791",
+        "if": "11.7",
+        "if5y": "",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|10/189"
+    },
+    "NEW ASTRONOMY REVIEWS": {
+        "abbr": "NEW ASTRON REV",
+        "issn": "1387-6473",
+        "if": "11.7",
+        "if5y": "9.7",
+        "category": "ASTRONOMY & ASTROPHYSICS|Q1|5/84"
+    },
+    "Annual Review of Physical Chemistry": {
+        "abbr": "ANNU REV PHYS CHEM",
+        "issn": "0066-426X",
+        "if": "11.7",
+        "if5y": "14.1",
+        "category": "CHEMISTRY, PHYSICAL|Q1|21/178"
+    },
+    "BRITISH JOURNAL OF SPORTS MEDICINE": {
+        "abbr": "BRIT J SPORT MED",
+        "issn": "0306-3674",
+        "if": "11.6",
+        "if5y": "14.4",
+        "category": "SPORT SCIENCES|Q1|1/127"
+    },
+    "Physical Review X": {
+        "abbr": "PHYS REV X",
+        "issn": "2160-3308",
+        "if": "11.6",
+        "if5y": "12.9",
+        "category": "PHYSICS, MULTIDISCIPLINARY|Q1|6/110"
+    },
+    "Clinical Gastroenterology and Hepatology": {
+        "abbr": "CLIN GASTROENTEROL H",
+        "issn": "1542-3565",
+        "if": "11.6",
+        "if5y": "11.3",
+        "category": "GASTROENTEROLOGY & HEPATOLOGY|Q1|9/143"
+    },
+    "INTERNATIONAL JOURNAL OF COMPUTER VISION": {
+        "abbr": "INT J COMPUT VISION",
+        "issn": "0920-5691",
+        "if": "11.6",
+        "if5y": "14.5",
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE|Q1|7/197"
+    },
+    "Liver Cancer": {
+        "abbr": "LIVER CANCER",
+        "issn": "2235-1795",
+        "if": "11.6",
+        "if5y": "12.3",
+        "category": "ONCOLOGY|Q1|23/322"
+    },
+    "TRENDS IN BIOCHEMICAL SCIENCES": {
+        "abbr": "TRENDS BIOCHEM SCI",
+        "issn": "0968-0004",
+        "if": "11.6",
+        "if5y": "12.5",
+        "category": "BIOCHEMISTRY & MOLECULAR BIOLOGY|Q1|15/313"
+    },
+    "JAMA Dermatology": {
+        "abbr": "JAMA DERMATOL",
+        "issn": "2168-6068",
+        "if": "11.5",
+        "if5y": "10.6",
+        "category": "DERMATOLOGY|Q1|2/94"
+    },
+    "JOURNAL OF ECONOMIC LITERATURE": {
+        "abbr": "J ECON LIT",
+        "issn": "0022-0515",
+        "if": "11.5",
+        "if5y": "15.0",
+        "category": "ECONOMICS|Q1|2/597"
+    },
+    "ENDOSCOPY": {
+        "abbr": "ENDOSCOPY",
+        "issn": "0013-726X",
+        "if": "11.5",
+        "if5y": "10.1",
+        "category": "SURGERY|Q1|3/290"
+    },
+    "Industrial and Organizational Psychology-Perspectives on Science and Practice": {
+        "abbr": "IND ORGAN PSYCHOL-US",
+        "issn": "1754-9426",
+        "if": "11.5",
+        "if5y": "10.0",
+        "category": "PSYCHOLOGY, APPLIED|Q1|2/113"
+    },
+    "GENOMICS PROTEOMICS & BIOINFORMATICS": {
+        "abbr": "GENOM PROTEOM BIOINF",
+        "issn": "1672-0229",
+        "if": "11.5",
+        "if5y": "10.3",
+        "category": "GENETICS & HEREDITY|Q1|6/191"
+    },
+    "Blood Cancer Discovery": {
+        "abbr": "BLOOD CANCER DISCOV",
+        "issn": "2643-3230",
+        "if": "11.5",
+        "if5y": "11.1",
+        "category": "ONCOLOGY|Q1|24/322"
+    },
+    "JOURNAL OF MARKETING": {
+        "abbr": "J MARKETING",
+        "issn": "0022-2429",
+        "if": "11.5",
+        "if5y": "15.0",
+        "category": "BUSINESS|Q1|7/302"
+    },
+    "Chem Catalysis": {
+        "abbr": "CHEM CATALYSIS",
+        "issn": "2667-1093",
+        "if": "11.5",
+        "if5y": "",
+        "category": "CHEMISTRY, PHYSICAL|Q1|22/178"
+    },
+    "PROGRESS IN AEROSPACE SCIENCES": {
+        "abbr": "PROG AEROSP SCI",
+        "issn": "0376-0421",
+        "if": "11.5",
+        "if5y": "13.7",
+        "category": "ENGINEERING, AEROSPACE|Q1|1/52"
+    },
+    "Progress in Energy": {
+        "abbr": "PROG ENERGY",
+        "issn": "",
+        "if": "11.5",
+        "if5y": "11.7",
+        "category": "ENERGY & FUELS|Q1|15/170"
+    },
+    "Arthritis & Rheumatology": {
+        "abbr": "ARTHRITIS RHEUMATOL",
+        "issn": "2326-5191",
+        "if": "11.4",
+        "if5y": "11.4",
+        "category": "RHEUMATOLOGY|Q1|4/57"
+    },
+    "JOURNAL OF ALLERGY AND CLINICAL IMMUNOLOGY": {
+        "abbr": "J ALLERGY CLIN IMMUN",
+        "issn": "0091-6749",
+        "if": "11.4",
+        "if5y": "10.2",
+        "category": "IMMUNOLOGY|Q1|11/181"
+    },
+    "Journal of Advanced Research": {
+        "abbr": "J ADV RES",
+        "issn": "2090-1232",
+        "if": "11.4",
+        "if5y": "11.0",
+        "category": "MULTIDISCIPLINARY SCIENCES|Q1|12/134"
+    },
+    "JOURNAL OF EXPERIMENTAL & CLINICAL CANCER RESEARCH": {
+        "abbr": "J EXP CLIN CANC RES",
+        "issn": "",
+        "if": "11.4",
+        "if5y": "11.4",
+        "category": "ONCOLOGY|Q1|25/322"
+    },
+    "WATER RESEARCH": {
+        "abbr": "WATER RES",
+        "issn": "0043-1354",
+        "if": "11.4",
+        "if5y": "12.2",
+        "category": "WATER RESOURCES|Q1|1/127"
+    },
+    "TRENDS IN ENDOCRINOLOGY AND METABOLISM": {
+        "abbr": "TRENDS ENDOCRIN MET",
+        "issn": "1043-2760",
+        "if": "11.4",
+        "if5y": "12.3",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|7/186"
+    },
+    "Annual Review of Cell and Developmental Biology": {
+        "abbr": "ANNU REV CELL DEV BI",
+        "issn": "1081-0706",
+        "if": "11.4",
+        "if5y": "14.7",
+        "category": "DEVELOPMENTAL BIOLOGY|Q1|1/39"
+    },
+    "CRITICAL REVIEWS IN ENVIRONMENTAL SCIENCE AND TECHNOLOGY": {
+        "abbr": "CRIT REV ENV SCI TEC",
+        "issn": "1064-3389",
+        "if": "11.4",
+        "if5y": "14.3",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|13/358"
+    },
+    "ENDOCRINE PATHOLOGY": {
+        "abbr": "ENDOCR PATHOL",
+        "issn": "1046-3976",
+        "if": "11.3",
+        "if5y": "6.0",
+        "category": "PATHOLOGY|Q1|2/88"
+    },
+    "ACS Catalysis": {
+        "abbr": "ACS CATAL",
+        "issn": "2155-5435",
+        "if": "11.3",
+        "if5y": "12.6",
+        "category": "CHEMISTRY, PHYSICAL|Q1|23/178"
+    },
+    "Annual Review of Earth and Planetary Sciences": {
+        "abbr": "ANNU REV EARTH PL SC",
+        "issn": "0084-6597",
+        "if": "11.3",
+        "if5y": "14.2",
+        "category": "GEOSCIENCES, MULTIDISCIPLINARY|Q1|3/253"
+    },
+    "Earth System Science Data": {
+        "abbr": "EARTH SYST SCI DATA",
+        "issn": "1866-3508",
+        "if": "11.2",
+        "if5y": "12.1",
+        "category": "METEOROLOGY & ATMOSPHERIC SCIENCES|Q1|2/110"
+    },
+    "Journal of Materials Science & Technology": {
+        "abbr": "J MATER SCI TECHNOL",
+        "issn": "1005-0302",
+        "if": "11.2",
+        "if5y": "10.4",
+        "category": "METALLURGY & METALLURGICAL ENGINEERING|Q1|2/90"
+    },
+    "Annual Review of Control Robotics and Autonomous Systems": {
+        "abbr": "ANNU REV CONTR ROBOT",
+        "issn": "",
+        "if": "11.2",
+        "if5y": "15.5",
+        "category": "ROBOTICS|Q1|2/46"
+    },
+    "Annual Review of Pharmacology and Toxicology": {
+        "abbr": "ANNU REV PHARMACOL",
+        "issn": "0362-1642",
+        "if": "11.2",
+        "if5y": "12.9",
+        "category": "TOXICOLOGY|Q1|2/106"
+    },
+    "Journal of Business Logistics": {
+        "abbr": "J BUS LOGIST",
+        "issn": "0735-3766",
+        "if": "11.2",
+        "if5y": "10.2",
+        "category": "MANAGEMENT|Q1|7/401"
+    },
+    "SLEEP MEDICINE REVIEWS": {
+        "abbr": "SLEEP MED REV",
+        "issn": "1087-0792",
+        "if": "11.2",
+        "if5y": "12.7",
+        "category": "NEUROSCIENCES|Q1|12/310"
+    },
+    "RESOURCES CONSERVATION AND RECYCLING": {
+        "abbr": "RESOUR CONSERV RECY",
+        "issn": "0921-3449",
+        "if": "11.2",
+        "if5y": "12.1",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|15/358"
+    },
+    "Annual Review of Ecology Evolution and Systematics": {
+        "abbr": "ANNU REV ECOL EVOL S",
+        "issn": "1543-592X",
+        "if": "11.2",
+        "if5y": "16.0",
+        "category": "EVOLUTIONARY BIOLOGY|Q1|3/54"
+    },
+    "COMMUNICATIONS OF THE ACM": {
+        "abbr": "COMMUN ACM",
+        "issn": "0001-0782",
+        "if": "11.1",
+        "if5y": "17.3",
+        "category": "COMPUTER SCIENCE, THEORY & METHODS|Q1|6/143"
+    },
+    "QUARTERLY JOURNAL OF ECONOMICS": {
+        "abbr": "Q J ECON",
+        "issn": "0033-5533",
+        "if": "11.1",
+        "if5y": "20.8",
+        "category": "ECONOMICS|Q1|3/597"
+    },
+    "TECHNOVATION": {
+        "abbr": "TECHNOVATION",
+        "issn": "0166-4972",
+        "if": "11.1",
+        "if5y": "12.1",
+        "category": "OPERATIONS RESEARCH & MANAGEMENT SCIENCE|Q1|2/106"
+    },
+    "Cell Genomics": {
+        "abbr": "CELL GENOM",
+        "issn": "2666-979X",
+        "if": "11.1",
+        "if5y": "",
+        "category": "GENETICS & HEREDITY|Q1|7/191"
+    },
+    "REMOTE SENSING OF ENVIRONMENT": {
+        "abbr": "REMOTE SENS ENVIRON",
+        "issn": "0034-4257",
+        "if": "11.1",
+        "if5y": "12.7",
+        "category": "REMOTE SENSING|Q1|2/62"
+    },
+    "Trends in Environmental Analytical Chemistry": {
+        "abbr": "TRENDS ENVIRON ANAL",
+        "issn": "2214-1588",
+        "if": "11.1",
+        "if5y": "11.0",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|16/358"
+    },
+    "Small Science": {
+        "abbr": "SMALL SCI",
+        "issn": "2688-4046",
+        "if": "11.1",
+        "if5y": "11.2",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|18/140"
+    },
+    "Polymer Reviews": {
+        "abbr": "POLYM REV",
+        "issn": "1558-3724",
+        "if": "11.1",
+        "if5y": "14.2",
+        "category": "POLYMER SCIENCE|Q1|2/94"
+    },
+    "Statistics Surveys": {
+        "abbr": "STAT SURV",
+        "issn": "1935-7516",
+        "if": "11.0",
+        "if5y": "7.4",
+        "category": "STATISTICS & PROBABILITY|Q1|1/168"
+    },
+    "BRITISH JOURNAL OF DERMATOLOGY": {
+        "abbr": "BRIT J DERMATOL",
+        "issn": "0007-0963",
+        "if": "11.0",
+        "if5y": "9.4",
+        "category": "DERMATOLOGY|Q1|3/94"
+    },
+    "BIOLOGICAL REVIEWS": {
+        "abbr": "BIOL REV",
+        "issn": "1464-7931",
+        "if": "11.0",
+        "if5y": "13.8",
+        "category": "BIOLOGY|Q1|2/109"
+    },
+    "MOLECULAR BIOLOGY AND EVOLUTION": {
+        "abbr": "MOL BIOL EVOL",
+        "issn": "0737-4038",
+        "if": "11.0",
+        "if5y": "14.5",
+        "category": "GENETICS & HEREDITY|Q1|8/191"
+    },
+    "Journal of Retailing and Consumer Services": {
+        "abbr": "J RETAIL CONSUM SERV",
+        "issn": "0969-6989",
+        "if": "11.0",
+        "if5y": "11.2",
+        "category": "BUSINESS|Q1|8/302"
+    },
+    "FOOD HYDROCOLLOIDS": {
+        "abbr": "FOOD HYDROCOLLOID",
+        "issn": "0268-005X",
+        "if": "11.0",
+        "if5y": "11.3",
+        "category": "FOOD SCIENCE & TECHNOLOGY|Q1|4/173"
+    },
+    "Tourism Management": {
+        "abbr": "TOURISM MANAGE",
+        "issn": "0261-5177",
+        "if": "10.9",
+        "if5y": "11.5",
+        "category": "MANAGEMENT|Q1|9/401"
+    },
+    "IEEE WIRELESS COMMUNICATIONS": {
+        "abbr": "IEEE WIREL COMMUN",
+        "issn": "1536-1284",
+        "if": "10.9",
+        "if5y": "11.1",
+        "category": "TELECOMMUNICATIONS|Q1|3/119"
+    },
+    "CLINICAL MICROBIOLOGY AND INFECTION": {
+        "abbr": "CLIN MICROBIOL INFEC",
+        "issn": "1198-743X",
+        "if": "10.9",
+        "if5y": "9.3",
+        "category": "MICROBIOLOGY|Q1|10/161"
+    },
+    "Sustainable Production and Consumption": {
+        "abbr": "SUSTAIN PROD CONSUMP",
+        "issn": "2352-5509",
+        "if": "10.9",
+        "if5y": "10.3",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|7/91"
+    },
+    "CEMENT AND CONCRETE RESEARCH": {
+        "abbr": "CEMENT CONCRETE RES",
+        "issn": "0008-8846",
+        "if": "10.9",
+        "if5y": "14.4",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|45/438"
+    },
+    "MEDICINAL RESEARCH REVIEWS": {
+        "abbr": "MED RES REV",
+        "issn": "0198-6325",
+        "if": "10.9",
+        "if5y": "12.9",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|10/354"
+    },
+    "International Journal of Oral Science": {
+        "abbr": "INT J ORAL SCI",
+        "issn": "1674-2818",
+        "if": "10.8",
+        "if5y": "11.7",
+        "category": "DENTISTRY, ORAL SURGERY & MEDICINE|Q1|2/157"
+    },
+    "SIAM REVIEW": {
+        "abbr": "SIAM REV",
+        "issn": "0036-1445",
+        "if": "10.8",
+        "if5y": "11.3",
+        "category": "MATHEMATICS, APPLIED|Q1|1/331"
+    },
+    "ISME Journal": {
+        "abbr": "ISME J",
+        "issn": "1751-7362",
+        "if": "10.8",
+        "if5y": "11.8",
+        "category": "MICROBIOLOGY|Q1|11/161"
+    },
+    "GLOBAL CHANGE BIOLOGY": {
+        "abbr": "GLOBAL CHANGE BIOL",
+        "issn": "1354-1013",
+        "if": "10.8",
+        "if5y": "13.0",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|18/358"
+    },
+    "Translational Neurodegeneration": {
+        "abbr": "TRANSL NEURODEGENER",
+        "issn": "2047-9158",
+        "if": "10.8",
+        "if5y": "11.6",
+        "category": "NEUROSCIENCES|Q1|13/310"
+    },
+    "METABOLISM-CLINICAL AND EXPERIMENTAL": {
+        "abbr": "METABOLISM",
+        "issn": "0026-0495",
+        "if": "10.8",
+        "if5y": "10.6",
+        "category": "ENDOCRINOLOGY & METABOLISM|Q1|9/186"
+    },
+    "IEEE TRANSACTIONS ON IMAGE PROCESSING": {
+        "abbr": "IEEE T IMAGE PROCESS",
+        "issn": "1057-7149",
+        "if": "10.8",
+        "if5y": "12.1",
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC|Q1|9/352"
+    },
+    "EARTH-SCIENCE REVIEWS": {
+        "abbr": "EARTH-SCI REV",
+        "issn": "0012-8252",
+        "if": "10.8",
+        "if5y": "13.0",
+        "category": "GEOSCIENCES, MULTIDISCIPLINARY|Q1|5/253"
+    },
+    "CEMENT & CONCRETE COMPOSITES": {
+        "abbr": "CEMENT CONCRETE COMP",
+        "issn": "0958-9465",
+        "if": "10.8",
+        "if5y": "11.2",
+        "category": "MATERIALS SCIENCE, COMPOSITES|Q1|3/35"
+    },
+    "ENVIRONMENTAL SCIENCE & TECHNOLOGY": {
+        "abbr": "ENVIRON SCI TECHNOL",
+        "issn": "0013-936X",
+        "if": "10.8",
+        "if5y": "11.6",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|18/358"
+    },
+    "ACTA PHYSICO-CHIMICA SINICA": {
+        "abbr": "ACTA PHYS-CHIM SIN",
+        "issn": "1000-6818",
+        "if": "10.8",
+        "if5y": "5.5",
+        "category": "CHEMISTRY, PHYSICAL|Q1|24/178"
+    },
+    "IEEE TRANSACTIONS ON FUZZY SYSTEMS": {
+        "abbr": "IEEE T FUZZY SYST",
+        "issn": "1063-6706",
+        "if": "10.7",
+        "if5y": "9.7",
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC|Q1|10/352"
+    },
+    "MEDICAL IMAGE ANALYSIS": {
+        "abbr": "MED IMAGE ANAL",
+        "issn": "1361-8415",
+        "if": "10.7",
+        "if5y": "11.9",
+        "category": "RADIOLOGY, NUCLEAR MEDICINE & MEDICAL IMAGING|Q1|3/204"
+    },
+    "DEVELOPMENTAL CELL": {
+        "abbr": "DEV CELL",
+        "issn": "1534-5807",
+        "if": "10.7",
+        "if5y": "11.5",
+        "category": "DEVELOPMENTAL BIOLOGY|Q1|2/39"
+    },
+    "BIOSENSORS & BIOELECTRONICS": {
+        "abbr": "BIOSENS BIOELECTRON",
+        "issn": "0956-5663",
+        "if": "10.7",
+        "if5y": "9.9",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|19/140"
+    },
+    "Carbohydrate Polymers": {
+        "abbr": "CARBOHYD POLYM",
+        "issn": "0144-8617",
+        "if": "10.7",
+        "if5y": "10.2",
+        "category": "POLYMER SCIENCE|Q1|3/94"
+    },
+    "Asian Journal of Pharmaceutical Sciences": {
+        "abbr": "ASIAN J PHARM SCI",
+        "issn": "1818-0876",
+        "if": "10.7",
+        "if5y": "9.0",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|11/354"
+    },
+    "Redox Biology": {
+        "abbr": "REDOX BIOL",
+        "issn": "2213-2317",
+        "if": "10.7",
+        "if5y": "11.7",
+        "category": "BIOCHEMISTRY & MOLECULAR BIOLOGY|Q1|17/313"
+    },
+    "MedComm": {
+        "abbr": "MEDCOMM",
+        "issn": "",
+        "if": "10.7",
+        "if5y": "9.7",
+        "category": "MEDICINE, RESEARCH & EXPERIMENTAL|Q1|11/189"
+    },
+    "Green Energy & Environment": {
+        "abbr": "GREEN ENERGY ENVIRON",
+        "issn": "2096-2797",
+        "if": "10.7",
+        "if5y": "10.1",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|8/91"
+    },
+    "ARTIFICIAL INTELLIGENCE REVIEW": {
+        "abbr": "ARTIF INTELL REV",
+        "issn": "0269-2821",
+        "if": "10.7",
+        "if5y": "11.7",
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE|Q1|9/197"
+    },
+    "Journal of Materials Chemistry A": {
+        "abbr": "J MATER CHEM A",
+        "issn": "2050-7488",
+        "if": "10.7",
+        "if5y": "10.8",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|46/438"
+    },
+    "EcoMat": {
+        "abbr": "ECOMAT",
+        "issn": "",
+        "if": "10.7",
+        "if5y": "12.3",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|46/438"
+    },
+    "Small Methods": {
+        "abbr": "SMALL METHODS",
+        "issn": "2366-9608",
+        "if": "10.7",
+        "if5y": "12.1",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|19/140"
+    },
+    "BRAIN": {
+        "abbr": "BRAIN",
+        "issn": "0006-8950",
+        "if": "10.6",
+        "if5y": "12.5",
+        "category": "NEUROSCIENCES|Q1|14/310"
+    },
+    "ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING": {
+        "abbr": "ISPRS J PHOTOGRAMM",
+        "issn": "0924-2716",
+        "if": "10.6",
+        "if5y": "11.8",
+        "category": "REMOTE SENSING|Q1|3/62"
+    },
+    "JOURNAL OF NANOBIOTECHNOLOGY": {
+        "abbr": "J NANOBIOTECHNOL",
+        "issn": "",
+        "if": "10.6",
+        "if5y": "11.4",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|21/140"
+    },
+    "Molecular Horticulture": {
+        "abbr": "MOL HORTIC",
+        "issn": "2730-9401",
+        "if": "10.6",
+        "if5y": "10.6",
+        "category": "PLANT SCIENCES|Q1|5/265"
+    },
+    "Annual Review of Food Science and Technology": {
+        "abbr": "ANNU REV FOOD SCI T",
+        "issn": "1941-1413",
+        "if": "10.6",
+        "if5y": "13.7",
+        "category": "FOOD SCIENCE & TECHNOLOGY|Q1|5/173"
+    },
+    "Annual Review of Materials Research": {
+        "abbr": "ANNU REV MATER RES",
+        "issn": "1531-7331",
+        "if": "10.6",
+        "if5y": "13.5",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|49/438"
+    },
+    "AMERICAN ECONOMIC REVIEW": {
+        "abbr": "AM ECON REV",
+        "issn": "0002-8282",
+        "if": "10.5",
+        "if5y": "15.3",
+        "category": "ECONOMICS|Q1|4/597"
+    },
+    "Perspectives on Psychological Science": {
+        "abbr": "PERSPECT PSYCHOL SCI",
+        "issn": "1745-6916",
+        "if": "10.5",
+        "if5y": "12.5",
+        "category": "PSYCHOLOGY, MULTIDISCIPLINARY|Q1|8/218"
+    },
+    "JAMA Network Open": {
+        "abbr": "JAMA NETW OPEN",
+        "issn": "2574-3805",
+        "if": "10.5",
+        "if5y": "11.0",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|10/325"
+    },
+    "International Journal of Transgender Health": {
+        "abbr": "INT J TRANSGEND HEAL",
+        "issn": "2689-5269",
+        "if": "10.5",
+        "if5y": "8.7",
+        "category": "SOCIAL SCIENCES, INTERDISCIPLINARY|Q1|1/263"
+    },
+    "PLOS MEDICINE": {
+        "abbr": "PLOS MED",
+        "issn": "1549-1277",
+        "if": "10.5",
+        "if5y": "11.3",
+        "category": "MEDICINE, GENERAL & INTERNAL|Q1|10/325"
+    },
+    "Journal of Business Research": {
+        "abbr": "J BUS RES",
+        "issn": "0148-2963",
+        "if": "10.5",
+        "if5y": "11.2",
+        "category": "BUSINESS|Q1|9/302"
+    },
+    "JOURNAL OF CONTROLLED RELEASE": {
+        "abbr": "J CONTROL RELEASE",
+        "issn": "0168-3659",
+        "if": "10.5",
+        "if5y": "10.6",
+        "category": "PHARMACOLOGY & PHARMACY|Q1|12/354"
+    },
+    "Sustainable Cities and Society": {
+        "abbr": "SUSTAIN CITIES SOC",
+        "issn": "2210-6707",
+        "if": "10.5",
+        "if5y": "10.0",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|10/91"
+    },
+    "Cyborg and Bionic Systems": {
+        "abbr": "CYBORG BIONIC SYST",
+        "issn": "",
+        "if": "10.5",
+        "if5y": "10.7",
+        "category": "ROBOTICS|Q1|3/46"
+    },
+    "CARBON": {
+        "abbr": "CARBON",
+        "issn": "0008-6223",
+        "if": "10.5",
+        "if5y": "9.2",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|50/438"
+    },
+    "ANNALS OF TOURISM RESEARCH": {
+        "abbr": "ANN TOURISM RES",
+        "issn": "0160-7383",
+        "if": "10.4",
+        "if5y": "11.2",
+        "category": "SOCIOLOGY|Q1|1/217"
+    },
+    "Genome Medicine": {
+        "abbr": "GENOME MED",
+        "issn": "1756-994X",
+        "if": "10.4",
+        "if5y": "12.6",
+        "category": "GENETICS & HEREDITY|Q1|9/191"
+    },
+    "JOURNAL OF FINANCIAL ECONOMICS": {
+        "abbr": "J FINANC ECON",
+        "issn": "0304-405X",
+        "if": "10.4",
+        "if5y": "11.4",
+        "category": "ECONOMICS|Q1|5/597"
+    },
+    "Journal of Industrial Information Integration": {
+        "abbr": "J IND INF INTEGR",
+        "issn": "2467-964X",
+        "if": "10.4",
+        "if5y": "10.5",
+        "category": "ENGINEERING, INDUSTRIAL|Q1|4/69"
+    },
+    "Pulmonology": {
+        "abbr": "PULMONOLOGY",
+        "issn": "2531-0437",
+        "if": "10.4",
+        "if5y": "6.9",
+        "category": "RESPIRATORY SYSTEM|Q1|5/100"
+    },
+    "Annual Review of Biophysics": {
+        "abbr": "ANNU REV BIOPHYS",
+        "issn": "1936-122X",
+        "if": "10.4",
+        "if5y": "12.3",
+        "category": "BIOPHYSICS|Q1|4/77"
+    },
+    "Science China-Chemistry": {
+        "abbr": "SCI CHINA CHEM",
+        "issn": "1674-7291",
+        "if": "10.4",
+        "if5y": "7.9",
+        "category": "CHEMISTRY, MULTIDISCIPLINARY|Q1|27/230"
+    },
+    "npj Clean Water": {
+        "abbr": "NPJ CLEAN WATER",
+        "issn": "2059-7037",
+        "if": "10.4",
+        "if5y": "12.2",
+        "category": "WATER RESOURCES|Q1|2/127"
+    },
+    "Carbon Capture Science & Technology": {
+        "abbr": "CARBON CAPTURE SCI T",
+        "issn": "2772-6568",
+        "if": "10.4",
+        "if5y": "",
+        "category": "GREEN & SUSTAINABLE SCIENCE & TECHNOLOGY|Q1|11/91"
+    },
+    "JOURNAL OF THE AMERICAN SOCIETY OF NEPHROLOGY": {
+        "abbr": "J AM SOC NEPHROL",
+        "issn": "1046-6673",
+        "if": "10.3",
+        "if5y": "10.5",
+        "category": "UROLOGY & NEPHROLOGY|Q1|6/126"
+    },
+    "JACC-Heart Failure": {
+        "abbr": "JACC-HEART FAIL",
+        "issn": "2213-1779",
+        "if": "10.3",
+        "if5y": "12.1",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|11/220"
+    },
+    "Journal for ImmunoTherapy of Cancer": {
+        "abbr": "J IMMUNOTHER CANCER",
+        "issn": "",
+        "if": "10.3",
+        "if5y": "11.6",
+        "category": "ONCOLOGY|Q1|26/322"
+    },
+    "Additive Manufacturing": {
+        "abbr": "ADDIT MANUF",
+        "issn": "2214-8604",
+        "if": "10.3",
+        "if5y": "12.4",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|51/438"
+    },
+    "ENVIRONMENT INTERNATIONAL": {
+        "abbr": "ENVIRON INT",
+        "issn": "0160-4120",
+        "if": "10.3",
+        "if5y": "11.1",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|21/358"
+    },
+    "IEEE Computational Intelligence Magazine": {
+        "abbr": "IEEE COMPUT INTELL M",
+        "issn": "1556-603X",
+        "if": "10.3",
+        "if5y": "11.2",
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE|Q1|12/197"
+    },
+    "CARDIOVASCULAR RESEARCH": {
+        "abbr": "CARDIOVASC RES",
+        "issn": "0008-6363",
+        "if": "10.2",
+        "if5y": "10.6",
+        "category": "CARDIAC & CARDIOVASCULAR SYSTEMS|Q1|12/220"
+    },
+    "IEEE Transactions on Neural Networks and Learning Systems": {
+        "abbr": "IEEE T NEUR NET LEAR",
+        "issn": "2162-237X",
+        "if": "10.2",
+        "if5y": "10.4",
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC|Q1|11/352"
+    },
+    "Journal of Supply Chain Management": {
+        "abbr": "J SUPPLY CHAIN MANAG",
+        "issn": "1523-2409",
+        "if": "10.2",
+        "if5y": "10.2",
+        "category": "MANAGEMENT|Q1|10/401"
+    },
+    "Virtual and Physical Prototyping": {
+        "abbr": "VIRTUAL PHYS PROTOTY",
+        "issn": "1745-2759",
+        "if": "10.2",
+        "if5y": "10.2",
+        "category": "MATERIALS SCIENCE, MULTIDISCIPLINARY|Q1|52/438"
+    },
+    "NATURAL PRODUCT REPORTS": {
+        "abbr": "NAT PROD REP",
+        "issn": "0265-0568",
+        "if": "10.2",
+        "if5y": "11.2",
+        "category": "CHEMISTRY, ORGANIC|Q1|2/58"
+    },
+    "Journal of High Energy Astrophysics": {
+        "abbr": "J HIGH ENERGY ASTROP",
+        "issn": "2214-4048",
+        "if": "10.2",
+        "if5y": "7.7",
+        "category": "ASTRONOMY & ASTROPHYSICS|Q1|7/84"
+    },
+    "TECHNOLOGY IN SOCIETY": {
+        "abbr": "TECHNOL SOC",
+        "issn": "0160-791X",
+        "if": "10.1",
+        "if5y": "9.6",
+        "category": "SOCIAL SCIENCES, INTERDISCIPLINARY|Q1|2/263"
+    },
+    "Engineering": {
+        "abbr": "ENGINEERING-PRC",
+        "issn": "2095-8099",
+        "if": "10.1",
+        "if5y": "11.6",
+        "category": "ENGINEERING, MULTIDISCIPLINARY|Q1|2/179"
+    },
+    "GENOME BIOLOGY": {
+        "abbr": "GENOME BIOL",
+        "issn": "1474-760X",
+        "if": "10.1",
+        "if5y": "16.5",
+        "category": "GENETICS & HEREDITY|Q1|10/191"
+    },
+    "EDUCATIONAL PSYCHOLOGY REVIEW": {
+        "abbr": "EDUC PSYCHOL REV",
+        "issn": "1040-726X",
+        "if": "10.1",
+        "if5y": "12.5",
+        "category": "PSYCHOLOGY, EDUCATIONAL|Q1|2/74"
+    },
+    "ENVIRONMENTAL HEALTH PERSPECTIVES": {
+        "abbr": "ENVIRON HEALTH PERSP",
+        "issn": "0091-6765",
+        "if": "10.1",
+        "if5y": "10.3",
+        "category": "TOXICOLOGY|Q1|3/106"
+    },
+    "Facta Universitatis-Series Mechanical Engineering": {
+        "abbr": "FACTA UNIV-SER MECH",
+        "issn": "0354-2025",
+        "if": "10.1",
+        "if5y": "5.6",
+        "category": "ENGINEERING, MECHANICAL|Q1|3/180"
+    },
+    "European Review of Social Psychology": {
+        "abbr": "EUR REV SOC PSYCHOL",
+        "issn": "1046-3283",
+        "if": "10.1",
+        "if5y": "9.9",
+        "category": "PSYCHOLOGY, SOCIAL|Q1|1/76"
+    },
+    "PLANT BIOTECHNOLOGY JOURNAL": {
+        "abbr": "PLANT BIOTECHNOL J",
+        "issn": "1467-7644",
+        "if": "10.1",
+        "if5y": "11.6",
+        "category": "PLANT SCIENCES|Q1|6/265"
+    },
+    "AMERICAN JOURNAL OF HEMATOLOGY": {
+        "abbr": "AM J HEMATOL",
+        "issn": "0361-8609",
+        "if": "10.1",
+        "if5y": "10.1",
+        "category": "HEMATOLOGY|Q1|8/97"
+    },
+    "JOURNAL OF PRODUCT INNOVATION MANAGEMENT": {
+        "abbr": "J PROD INNOVAT MANAG",
+        "issn": "0737-6782",
+        "if": "10.1",
+        "if5y": "12.9",
+        "category": "MANAGEMENT|Q1|11/401"
+    },
+    "APPLIED ENERGY": {
+        "abbr": "APPL ENERG",
+        "issn": "0306-2619",
+        "if": "10.1",
+        "if5y": "10.4",
+        "category": "ENGINEERING, CHEMICAL|Q1|11/170"
+    },
+    "FEMS MICROBIOLOGY REVIEWS": {
+        "abbr": "FEMS MICROBIOL REV",
+        "issn": "0168-6445",
+        "if": "10.1",
+        "if5y": "13.4",
+        "category": "MICROBIOLOGY|Q1|12/161"
+    },
+    "Mycosphere": {
+        "abbr": "MYCOSPHERE",
+        "issn": "2077-7000",
+        "if": "10.0",
+        "if5y": "9.0",
+        "category": "MYCOLOGY|Q1|3/33"
+    },
+    "CLINICAL CANCER RESEARCH": {
+        "abbr": "CLIN CANCER RES",
+        "issn": "1078-0432",
+        "if": "10.0",
+        "if5y": "11.1",
+        "category": "ONCOLOGY|Q1|27/322"
+    },
+    "PLANT CELL": {
+        "abbr": "PLANT CELL",
+        "issn": "1040-4651",
+        "if": "10.0",
+        "if5y": "11.1",
+        "category": "PLANT SCIENCES|Q1|7/265"
+    },
+    "Materials Today Physics": {
+        "abbr": "MATER TODAY PHYS",
+        "issn": "2542-5293",
+        "if": "10.0",
+        "if5y": "9.8",
+        "category": "PHYSICS, APPLIED|Q1|16/179"
+    },
+    "FRONTIERS IN ECOLOGY AND THE ENVIRONMENT": {
+        "abbr": "FRONT ECOL ENVIRON",
+        "issn": "1540-9295",
+        "if": "10.0",
+        "if5y": "12.3",
+        "category": "ENVIRONMENTAL SCIENCES|Q1|23/358"
+    },
+    "Advanced Healthcare Materials": {
+        "abbr": "ADV HEALTHC MATER",
+        "issn": "2192-2640",
+        "if": "10.0",
+        "if5y": "11.3",
+        "category": "NANOSCIENCE & NANOTECHNOLOGY|Q1|22/140"
+    },
+    "Eurosurveillance": {
+        "abbr": "EUROSURVEILLANCE",
+        "issn": "1025-496X",
+        "if": "9.9",
+        "if5y": "8.5",
+        "category": "INFECTIOUS DISEASES|Q1|6/132"
+    }
+}
