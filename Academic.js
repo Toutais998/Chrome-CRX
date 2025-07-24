@@ -58,7 +58,7 @@
     // --- CONFIGURATION ---
     const JOURNAL_DATA_URL = 'https://gist.githubusercontent.com/Toutais998/492aef504e6e35eab7bdc5b95d275b53/raw/befd4711e89e06e7f281edfde380efeed7de0e39/gistfile1.txt';
     const SCIHUB_DOMAINS = ['sci-hub.se', 'sci-hub.ren', 'sci-hub.ru'];
-    const MIN_IF_THRESHOLD = 5; // 最小影响因子阈值，低于此值的期刊将不会显示
+    const MIN_IF_THRESHOLD = 2; // 最小影响因子阈值，低于此值的期刊将不会显示
 
     // --- NEW: Caching Configuration ---
     const CACHE_KEYS = {
