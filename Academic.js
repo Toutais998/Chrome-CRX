@@ -71,8 +71,45 @@
     };
 
     // 学术出版商配置信息，包含识别和处理特点
+    const SCIHUB_DOMAINS = ['sci-hub.se', 'sci-hub.ren', 'sci-hub.ru'];
+    const MIN_IF_THRESHOLD = 2; // 最小影响因子阈值，低于此值的期刊将不会显示
+
+    // --- NEW: Caching Configuration ---
+    const CACHE_KEYS = {
+        JOURNAL_DATA: 'academic_info_journal_data',
+        SCIHUB_DOMAIN: 'academic_info_scihub_domain'
+    };
+    const CACHE_TTL = {
+        [CACHE_KEYS.JOURNAL_DATA]: 7 * 24 * 60 * 60 * 1000, // 7 days
+        [CACHE_KEYS.SCIHUB_DOMAIN]: 6 * 60 * 60 * 1000      // 6 hours
+    };
+
+    // 学术出版商配置信息，包含识别和处理特点
     const PUBLISHER_PATTERNS = [
         {
+            name: "Nature Publishing Group",
+            domains: ["nature.com"],
+            subsidiaries: [
+                "nature.com", "natureportfolio.com",
+                "scientificamerican.com", "nature-portfolio.com"
+            ],
+            journals: [
+                "Nature", "Nature Methods", "Nature Biotechnology", "Nature Cell Biology",
+                "Nature Chemistry", "Nature Climate Change", "Nature Communications",
+                "Nature Ecology & Evolution", "Nature Genetics", "Nature Geoscience",
+                "Nature Human Behaviour", "Nature Immunology", "Nature Materials",
+                "Nature Medicine", "Nature Microbiology", "Nature Nanotechnology",
+                "Nature Neuroscience", "Nature Physics", "Nature Plants",
+                "Nature Protocols", "Nature Reviews", "Nature Structural & Molecular Biology"
+            ]
+        },
+        {
+            name: "Elsevier",
+            domains: ["elsevier.com", "sciencedirect.com"],
+            subsidiaries: ["cell.com", "thelancet.com"],
+            selectors: {
+                doi: "#doi-link"
+            }
             name: "Nature Publishing Group",
             domains: ["nature.com"],
             subsidiaries: [
@@ -100,19 +137,29 @@
         {
             name: "Wiley",
             domains: ["wiley.com", "onlinelibrary.wiley.com"],
+            name: "Wiley",
+            domains: ["wiley.com", "onlinelibrary.wiley.com"],
             subsidiaries: [],
+            journals: []
             journals: []
         },
         {
             name: "Springer Nature",
             domains: ["springer.com", "springerlink.com"],
+            name: "Springer Nature",
+            domains: ["springer.com", "springerlink.com"],
             subsidiaries: [],
+            journals: []
             journals: []
         },
         {
             name: "AAAS",
             domains: ["sciencemag.org", "science.org"],
+            name: "AAAS",
+            domains: ["sciencemag.org", "science.org"],
             subsidiaries: [],
+            journals: ["Science", "Science Advances", "Science Immunology",
+                "Science Robotics", "Science Signaling", "Science Translational Medicine"]
             journals: ["Science", "Science Advances", "Science Immunology",
                 "Science Robotics", "Science Signaling", "Science Translational Medicine"]
         }
@@ -124,15 +171,29 @@
             all: initial;
             font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
         }
+        :host {
+            all: initial;
+            font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
         #academic-info-container {
             position: fixed;
             top: 150px;
+            top: 150px;
             right: 20px;
+            z-index: 2147483647;
             z-index: 2147483647;
         }
         #academic-info-toggle {
             width: 50px;
             height: 50px;
+            background-color: #E53935;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-family: serif;
             background-color: #E53935;
             color: white;
             border-radius: 50%;
@@ -161,7 +222,22 @@
             pointer-events: none;
             transform: translateY(-10px);
             transition: all 0.2s ease-out;
+            position: absolute;
+            right: 0;
+            top: 65px;
+            width: 480px;
+            opacity: 0;
+            pointer-events: none;
+            transform: translateY(-10px);
+            transition: all 0.2s ease-out;
             background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.12);
+            font-size: 14px;
+            color: #333;
+            max-height: 80vh;
+            overflow: hidden;
             border: 1px solid #ddd;
             border-radius: 12px;
             box-shadow: 0 5px 25px rgba(0,0,0,0.12);
@@ -175,10 +251,42 @@
         #academic-info-container.is-expanded #academic-info-panel {
             opacity: 1;
             pointer-events: auto;
+            pointer-events: auto;
             transform: translateY(0);
         }
         .info-table {
             padding: 15px;
+            overflow-y: auto;
+            flex: 1;
+            max-height: calc(80vh - 45px);
+        }
+        .title-header {
+            font-size: 16px;
+            font-weight: 600;
+            padding: 12px 15px;
+            margin: 0;
+            background-color: #f7f7f7;
+            border-bottom: 1px solid #ddd;
+            border-radius: 12px 12px 0 0;
+            position: sticky;
+            top: 0;
+            z-index: 1;
+        }
+        .info-row, .multi-col-row {
+            display: flex;
+            margin-bottom: 10px;
+            align-items: flex-start;
+        }
+        .label {
+            flex-shrink: 0;
+            width: 75px;
+            font-weight: 500;
+            color: white;
+            background-color: #2c3e50; /* Dark Slate */
+            padding: 5px;
+            border-radius: 6px;
+            text-align: center;
+            margin-right: 12px;
             overflow-y: auto;
             flex: 1;
             max-height: calc(80vh - 45px);
@@ -526,9 +634,16 @@
             /DOI:\s*10\.\d{4,}\//.test(bodyText);
 
         // 检查页面结构中是否有常见的学术文章元素
+        // 检查页面结构中是否有常见的学术文章元素
         const hasAbstract = !!document.querySelector(
             '[id*="abstract"], [class*="abstract"], ' +
             '[id*="summary"], [class*="summary"], ' +
+            'section[role="region"][aria-labelledby*="abstract"]'
+        );
+
+        // 检查是否包含引用部分
+        const hasReferences = !!document.querySelector(
+            '[id*="reference"], [class*="reference"], ' +
             'section[role="region"][aria-labelledby*="abstract"]'
         );
 
@@ -542,6 +657,19 @@
         // 检查出版商特定的结构
         const currentHost = window.location.hostname;
         const matchedPublisher = PUBLISHER_PATTERNS.find(p =>
+            p.domains.some(domain => currentHost.includes(domain)) ||
+            p.subsidiaries.some(sub => currentHost.includes(sub))
+        );
+
+        if (matchedPublisher) {
+            console.log(`Academic Info Displayer: 检测到出版商 ${matchedPublisher.name}`);
+            // 如果识别到特定出版商，可以进行额外的特定检查
+        }
+
+        // 通过多个因素综合判断
+        return (
+            hasDOIMeta ||
+            (hasJournalMeta && hasTitleMeta) ||
             p.domains.some(domain => currentHost.includes(domain)) ||
             p.subsidiaries.some(sub => currentHost.includes(sub))
         );
@@ -880,10 +1008,88 @@
         if (ifValue >= 20) {
             container.classList.add('high-if');
         }
+        const container = document.createElement('div');
+        container.id = 'academic-info-container';
+        if (ifValue >= 20) {
+            container.classList.add('high-if');
+        }
 
         let isPinned = false;
         container.addEventListener('mouseenter', () => container.classList.add('is-expanded'));
         container.addEventListener('mouseleave', () => { if (!isPinned) container.classList.remove('is-expanded'); });
+        let isPinned = false;
+        container.addEventListener('mouseenter', () => container.classList.add('is-expanded'));
+        container.addEventListener('mouseleave', () => { if (!isPinned) container.classList.remove('is-expanded'); });
+
+        const toggle = document.createElement('div');
+        toggle.id = 'academic-info-toggle';
+        toggle.textContent = 'i';
+        toggle.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); isPinned = !isPinned; if (isPinned) container.classList.add('is-expanded'); });
+
+        const panel = document.createElement('div');
+        panel.id = 'academic-info-panel';
+        panel.innerHTML = renderPanelContent(article, journalInfo);
+
+        container.appendChild(toggle);
+        container.appendChild(panel);
+        shadowRoot.appendChild(container);
+
+        // --- Event Listeners ---
+        const copyBtn = shadowRoot.getElementById('copy-doi-btn');
+        if (copyBtn) {
+            copyBtn.addEventListener('click', () => {
+                navigator.clipboard.writeText(article.doi).then(() => {
+                    copyBtn.textContent = '✅'; setTimeout(() => { copyBtn.textContent = '📋'; }, 1500);
+                });
+            });
+        }
+
+        const setupCitationButton = (btnId, format) => {
+            const btn = shadowRoot.getElementById(btnId);
+            if (btn) {
+                btn.addEventListener('click', () => {
+                    const citation = generateCitation(article, format);
+                    navigator.clipboard.writeText(citation).then(() => {
+                        const originalText = btn.textContent;
+                        btn.textContent = 'Copied!';
+                        setTimeout(() => { btn.textContent = originalText; }, 1500);
+                    });
+                });
+            }
+        };
+
+        setupCitationButton('cite-btn', 'apa');
+        setupCitationButton('bibtex-btn', 'bibtex');
+
+
+        const sciHubBtn = shadowRoot.getElementById('scihub-btn');
+        if (sciHubBtn) {
+            sciHubBtn.addEventListener('click', async () => {
+                sciHubBtn.textContent = 'Finding...';
+                sciHubBtn.disabled = true;
+                const domain = await sciHubDomainPromise;
+                if (domain && article.doi) {
+                    window.open(`https://${domain}/${article.doi}`, '_blank');
+                    sciHubBtn.textContent = 'Sci-Hub';
+                    sciHubBtn.disabled = false;
+                } else {
+                    sciHubBtn.textContent = 'No Hub Found';
+                    setTimeout(() => {
+                        sciHubBtn.textContent = 'Sci-Hub';
+                        sciHubBtn.disabled = false;
+                    }, 2000);
+                }
+            });
+        }
+
+        const settingsBtn = shadowRoot.getElementById('settings-btn');
+        if (settingsBtn) {
+            settingsBtn.addEventListener('click', () => {
+                // Future: open settings modal
+                alert('Settings panel coming soon!');
+            });
+        }
+    }
 
         const toggle = document.createElement('div');
         toggle.id = 'academic-info-toggle';
@@ -959,7 +1165,10 @@
     // 页面加载完成后执行，使用适当的延迟确保meta标签已加载
     if (document.readyState === 'complete' || document.readyState === 'interactive') {
         setTimeout(main, 1000);
+        setTimeout(main, 1000);
     } else {
+        window.addEventListener('DOMContentLoaded', () => setTimeout(main, 1000));
         window.addEventListener('DOMContentLoaded', () => setTimeout(main, 1000));
     }
 })();
+
